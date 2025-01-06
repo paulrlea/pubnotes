@@ -36,11 +36,10 @@ Relevant notes:
 [[2024-02-02 General Coordinates Continued]]
 
 Relevant Homework:
-[[Notes/Theoretical Mechanics 1/HW/HW#1 2024.pdf|HW#1 2024]]
-[[Notes/Theoretical Mechanics 1/HW/HW#2 2024.pdf|HW#2 2024]]
-[[Notes/Theoretical Mechanics 1/HW/HW#3 2024.pdf|HW#3 2024]]
-[[Notes/Theoretical Mechanics 1/HW/HW#4 2024.pdf|HW#4 2024]]
-
+[[HW 1 2024.pdf]]
+[[HW 2 2024.pdf]]
+[[HW 3 2024.pdf]]
+[[HW 4 2024.pdf]]
 
 
 

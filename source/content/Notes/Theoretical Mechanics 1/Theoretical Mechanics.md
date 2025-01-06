@@ -13,7 +13,7 @@ Office Hours:
 
 Notes: 
 
-[[@Classical  Review]]
+[[Classical  Review]]
 
 [[2024-01-16  Reference Frames]]
 

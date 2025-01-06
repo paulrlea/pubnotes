@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0571c1c94d829fac",
+        "id": "402c1ac6b880eb24",
         "type": "tabs",
         "children": [
           {
-            "id": "47ef711f7e8c1d64",
+            "id": "6a29084ea6a38e73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Theoretical Mechanics 1/Theoretical Mechanics.md",
+                "file": "Notes/Theoretical Mechanics 1/Resources/Theoretical Mechanics Exam 2 Resources.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Theoretical Mechanics"
+              "title": "Theoretical Mechanics Exam 2 Resources"
             }
           }
         ]
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "category-folder/Some note.md",
-                "linksCollapsed": false,
+                "file": "Notes/Theoretical Mechanics 1/Resources/Theoretical Mechanics Exam 2 Resources.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Some note"
+              "title": "Outgoing links from Theoretical Mechanics Exam 2 Resources"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Theoretical Mechanics 1/Theoretical Mechanics.md"
+                "file": "Notes/Theoretical Mechanics 1/Resources/Theoretical Mechanics Exam 2 Resources.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Theoretical Mechanics"
+              "title": "Outline of Theoretical Mechanics Exam 2 Resources"
             }
           },
           {
@@ -156,12 +156,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,8 +173,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "47ef711f7e8c1d64",
+  "active": "6a29084ea6a38e73",
   "lastOpenFiles": [
+    "Notes/Theoretical Mechanics 1/Resources/Theoretical Mechanics Exam 1 Resources.md",
+    "Notes/Theoretical Mechanics 1/Theoretical Mechanics.md",
+    "Notes/Theoretical Mechanics 1/HW/HW 8 2024.pdf",
+    "Notes/Theoretical Mechanics 1/HW/HW 11 2024.pdf",
+    "Notes/Theoretical Mechanics 1/HW/HW 10 2024.pdf",
+    "Notes/Theoretical Mechanics 1/HW/HW 9 2024.pdf",
+    "Notes/Physics Hub.md",
+    "Notes/Theoretical Mechanics 1/HW/HW 7 2024.pdf",
+    "Notes/Theoretical Mechanics 1/HW/HW 6 2024.pdf",
+    "Notes/Theoretical Mechanics 1/HW/HW 5 2024.pdf",
+    "Notes/Theoretical Mechanics 1/HW/HW 4 2024.pdf",
+    "Notes/Theoretical Mechanics 1/HW/HW 3 2024.pdf",
+    "Notes/Theoretical Mechanics 1/HW/HW 2 2024.pdf",
+    "Notes/Theoretical Mechanics 1/HW/HW.md",
+    "Notes/Theoretical Mechanics 1/Class Notes/HW 10 and 11 Overview.md",
+    "@Classical  Review.md",
     "Notes/Theoretical Mechanics 1/Class Notes/Concepts/Brachistachrone Problem.md",
     "Notes/Theoretical Mechanics 1/Class Notes/Classical  Review.md",
     "Notes/Theoretical Mechanics 1/Class Notes/Concepts/Special Relativity.md",
@@ -194,23 +209,7 @@
     "Notes/Theoretical Mechanics 1/Class Notes/Concepts/Cartesian Coordinates.md",
     "Notes/Theoretical Mechanics 1/Resources/Theoretical Mechanics Final Resources.md",
     "Notes/Theoretical Mechanics 1/Resources/Theoretical Mechanics Exam 2 Resources.md",
-    "Notes/Theoretical Mechanics 1/Resources/Theoretical Mechanics Exam 1 Resources.md",
-    "Notes/Theoretical Mechanics 1/Theoretical Mechanics.md",
     "Notes/Theoretical Mechanics 1/Class Notes/2024-03-29 Coupled Oscillations.md",
-    "Notes/Theoretical Mechanics 1/Class Notes/2024-03-15 Rigid Bodies Cont..md",
-    "Notes/Theoretical Mechanics 1/Class Notes/2024-03-26 Oscillations.md",
-    "Notes/Theoretical Mechanics 1/Class Notes/2024-04-05 General Coupled Oscillations.md",
-    "Notes/Theoretical Mechanics 1/Class Notes/2024-03-19 Rotating Rigid Bodies.md",
-    "Notes/Theoretical Mechanics 1/Class Notes/2024-02-23 Central forces cont..md",
-    "Notes/Theoretical Mechanics 1/HW/HW#5 2024.pdf",
-    "Notes/Theoretical Mechanics 1/HW/Homework 8Lea.pdf",
-    "Notes/Theoretical Mechanics 1/HW/HW#8 2024.pdf",
-    "Notes/Theoretical Mechanics 1/HW/HW#11 2024.pdf",
-    "Notes/Theoretical Mechanics 1/HW/HW#4 2024.pdf",
-    "Notes/Theoretical Mechanics 1/HW/HW#1 2024.pdf",
-    "Notes/Theoretical Mechanics 1/HW/HW#2 2024.pdf",
-    "Notes/Theoretical Mechanics 1/HW/Julia tmech backwork/TmechHW3.pdf",
-    "Notes/Theoretical Mechanics 1/Resources/Theoretical Mechanics Book.pdf",
     "Attachments/Pasted image 20231024215057.png",
     "Attachments/Pasted image 20231024215044.png",
     "Attachments/Pasted image 20231024214701.png",
@@ -220,7 +219,6 @@
     "Attachments/Pasted image 20231121141206.png",
     "Attachments/Pasted image 20231024214527.png",
     "Attachments/Pasted image 20231024214522.png",
-    "Attachments/Pasted image 20231124203642.png",
-    "Attachments/Images"
+    "Attachments/Pasted image 20231124203642.png"
   ]
 }
