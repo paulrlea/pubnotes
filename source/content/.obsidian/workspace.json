@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/Blog Hub.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Blog Hub"
+              "title": "index"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog/Blog Hub.md"
+                "file": "index.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Blog Hub"
+              "title": "Outline of index"
             }
           },
           {
@@ -174,10 +174,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
-    "Notes/Physics Hub.md",
     "Blog/Blog Hub.md",
+    "Notes/Physics Hub.md",
     "Notes/Some note.md",
     "Notes/Untitled.md",
     "index.md",
