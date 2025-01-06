@@ -1,4 +1,5 @@
 Problem 1:
+
 Relevant Equations:
 $$
 F=ma = m \frac{dv}{dt}
@@ -84,6 +85,7 @@ $$
 x(t) = \frac{\frac{F_{0}t}{mB}+e^{v_{0}/B}}{\frac{F_{0}}{mB}}\ln\left( \frac{F_{0}t}{mB} + e^{-v_{0}/B} \right)-t
 $$
 Problem 2 (special relativity)
+
 Robbers vehicle is traveling at 0.9c. Police vehicle is traveling at 0.75c. Dart traveling at 0.75c relative to police vehicle. 
 $$
 v' = \frac{v_{1}-v_{2}}{1- \frac{v_{1}v_{2}}{c^{2}}}
@@ -150,6 +152,7 @@ m\ddot{x} +kx = 0
 $$
 
 Question 4. Lagrangian Mechanics 
+
 a. Find the Lagrangian of the system
 +y is up, +x is to the right
 $$

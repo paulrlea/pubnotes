@@ -3,27 +3,19 @@ title: Theoretical Mechanics
 ---
 **For Spring 2024. Likely still mostly accurate**
 
-Professor: Dr. Charles Martin
+- Professor: Dr. Charles Martin
+- Office Hours: 11am-1pm Monday
+- Also has other office hours 1-3pm Wednesday
+- TA: Hiroka
+- Office Hours: 1-3pm Tuesday
+- Undergrad Facilitator: Kevin
+- Office Hours: 3-5Pm Friday
 
-Office Hours: 11am-1pm Monday
-
-Also has other office hours 1-3pm Wednesday
-
-TA: Hiroka
-
-Office Hours: 1-3pm Tuesday
-
-Undergrad Facilitator: Kevin
-
-Office Hours: 
-
-3-5Pm Friday
-
-Textbook: 
+## Textbook: 
 
 [[Theoretical Mechanics Book.pdf]]
 
-Notes: 
+## Notes: 
 
 [[Classical  Review]]
 
@@ -75,7 +67,7 @@ Exam 2!
 
 [[2024-04-23 TMECH]]
 
-Exam Information: 
+## Exam Information: 
 
 [[Theoretical Mechanics Exam 1 Resources]]
 
