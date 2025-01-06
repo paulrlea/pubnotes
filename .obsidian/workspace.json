@@ -1,56 +1,41 @@
 {
   "main": {
-    "id": "2e9225e34664efd4",
+    "id": "32ae7721ca6aa6bb",
     "type": "split",
     "children": [
       {
-        "id": "0571c1c94d829fac",
+        "id": "7bbc4a1c2a7e1738",
         "type": "tabs",
         "children": [
           {
-            "id": "47ef711f7e8c1d64",
+            "id": "f704a0d5f3dbf4a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "2d8837e6263008e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "category-folder/Some note.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Some note"
+              "title": "README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "1243752a4df710bb",
+    "id": "43f71a0422a343fb",
     "type": "split",
     "children": [
       {
-        "id": "8a4c81639dc8783e",
+        "id": "281d6438ff010e92",
         "type": "tabs",
         "children": [
           {
-            "id": "b77831b90dd9f87b",
+            "id": "184fbdf2b2041424",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -62,7 +47,7 @@
             }
           },
           {
-            "id": "0829eb50dbb8a2b3",
+            "id": "c97ecc40428d3c22",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -79,7 +64,7 @@
             }
           },
           {
-            "id": "436d75c49c949463",
+            "id": "e7a85fc741ca671a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -95,20 +80,20 @@
     "width": 300
   },
   "right": {
-    "id": "ba1ec06a672fb227",
+    "id": "ff2120bbe2625ccb",
     "type": "split",
     "children": [
       {
-        "id": "6cea78168fbf9ccd",
+        "id": "7a6a6c6b7860751b",
         "type": "tabs",
         "children": [
           {
-            "id": "2aa5a4c073617928",
+            "id": "793a729eb49ba002",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "category-folder/Some note.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,25 +103,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Some note"
+              "title": "Backlinks for README"
             }
           },
           {
-            "id": "5acb7020384970a8",
+            "id": "dbef7c3d8e440ace",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "category-folder/Some note.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Some note"
+              "title": "Outgoing links from README"
             }
           },
           {
-            "id": "f850ba7e9e699bea",
+            "id": "0b5a39af758d79db",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -149,33 +134,23 @@
             }
           },
           {
-            "id": "2d9129bb8dcf7983",
+            "id": "88304d076fb66f95",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "category-folder/Some note.md"
+                "file": "README.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Some note"
-            }
-          },
-          {
-            "id": "32e05a9ad887fead",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of README"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,15 +159,9 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "32e05a9ad887fead",
-  "lastOpenFiles": [
-    "category-folder/index.md",
-    "category-folder/Some note.md",
-    "index.md",
-    "category-folder"
-  ]
+  "active": "f704a0d5f3dbf4a9",
+  "lastOpenFiles": []
 }
