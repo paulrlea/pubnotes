@@ -7,7 +7,9 @@ $$
 F(v) = -F_{0}e^{v/B} =m \frac{dv}{dt}
 $$
 This is a velocity dependent force.
+
 1a. 
+
 Finding an expression for velocity using separation of variables
 $$
 -F_{0}e^{v/B}=m \frac{dv}{dt}

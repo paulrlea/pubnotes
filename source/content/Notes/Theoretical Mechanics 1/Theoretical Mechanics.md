@@ -11,6 +11,10 @@ Undergrad Facilitator: Kevin
 Office Hours: 
 3-5Pm Friday
 
+Textbook: 
+
+[[Theoretical Mechanics Book.pdf]]
+
 Notes: 
 
 [[Classical  Review]]
@@ -56,6 +60,12 @@ Exam 2!
 [[2024-04-05 General Coupled Oscillations]]
 
 [[2024-04-09 Coupled Oscillations Cont.]]
+
+[[2024-04-12 Vibrations]]
+
+[[2024-04-19 Loaded String]]
+
+[[2024-04-23 TMECH]]
 
 Exam Information: 
 

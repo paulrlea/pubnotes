@@ -4,35 +4,64 @@ dg-publish: true
 Exam on Tuesday Apr. 3rd. 
 
 Topics (i think): 
+
 [[forces of constraint]]
+
 [[Lagrange Multipliers]]
+
 [[generalized coordinates]]?
+
 [[Hamiltonian]]
+
 [[2024-01-26 Calc. of Variations]]
+
 [[Central Forces]]
+
 [[2024-03-01 Non-Inertial reference frames]]
+
 [[Rigid Bodies]]
+
 [[Inertia tensor]]
+
 Notes: (i think? not positive)
+
 [[2024-01-26 Calc. of Variations]]
+
 [[2024-01-30 Calc. of Variations Continued]]
+
 [[2024-02-02 General Coordinates Continued]]
+
 [[2024-02-06 Hamilton and Conservation]]
+
 [[2024-02-09 Angular and Hamiltonian]]
+
 [[2024-02-16 Central Forces]]
+
 [[2024-02-23 Central forces cont.]]
+
 [[2024-03-01 Non-Inertial reference frames]]
+
 [[2024-03-15 Rigid Bodies Cont.]]
+
 [[2024-03-19 Rotating Rigid Bodies]]
+
 [[2024-03-22 Parallel Axis Theorem]]
 
+
+
 TMECH Exam 2 back exam:
+
 https://drive.google.com/file/d/1KQP2U31L1ObIGDyZkiN4ml7hPKDD41q3/view?usp=sharing
 
+
+
 Equations: 
+
 1. Taylor Series 
 $$
+
 (x + h) = (x) + '(x)h + ''(x) \frac{h^{2}}{2!} + \dots
+
 $$
 2. Small Angle Approximation 
 $$

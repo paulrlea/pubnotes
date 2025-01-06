@@ -19,26 +19,42 @@ dg-publish: true
 	- Use problems in the book for review
 
 Back Exam for exam 1:
+
 https://drive.google.com/file/d/1v0opDy5yPW4tFAxx_7oI7hFHgMDHlwnP/view?usp=sharing
 
+
 Concepts covered: 
+
 [[Lagrangian Mechanics]]
+
 [[Special Relativity]]
+
 [[Classical  Review]]
 
 Relevant notes: 
+
 [[Classical  Review]]
+
 [[2024-01-16  Reference Frames]]
+
 [[2024-01-19 Special Relativity]]
+
 [[2024-01-23 Lagrangian Mechanics]]
+
 [[2024-01-26 Calc. of Variations]]
+
 [[2024-01-30 Calc. of Variations Continued]]
+
 [[2024-02-02 General Coordinates Continued]]
 
 Relevant Homework:
+
 [[HW 1 2024.pdf]]
+
 [[HW 2 2024.pdf]]
+
 [[HW 3 2024.pdf]]
+
 [[HW 4 2024.pdf]]
 
 

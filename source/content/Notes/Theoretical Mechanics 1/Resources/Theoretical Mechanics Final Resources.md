@@ -8,7 +8,9 @@ The two topics that *will* be on the final exam are coupled oscillations and vib
 - See section below on Final Exam Information 
 
 [[2024-03-26 Oscillations]]
+
 [[2024-03-29 Coupled Oscillations]]
+
 [[2024-04-05 General Coupled Oscillations]]
 
 # Equations
