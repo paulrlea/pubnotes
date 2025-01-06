@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Theoretical Mechanics 1/Class Notes/Classical  Review.md",
+                "file": "Notes/Theoretical Mechanics 1/Theoretical Mechanics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Classical  Review"
+              "title": "Theoretical Mechanics"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Theoretical Mechanics 1/Class Notes/Classical  Review.md"
+                "file": "Notes/Theoretical Mechanics 1/Theoretical Mechanics.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Classical  Review"
+              "title": "Outline of Theoretical Mechanics"
             }
           },
           {
@@ -176,9 +176,10 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "Notes/Theoretical Mechanics 1/Class Notes/Concepts/Brachistachrone Problem.md",
+    "Notes/Theoretical Mechanics 1/Class Notes/Classical  Review.md",
     "Notes/Theoretical Mechanics 1/Class Notes/Concepts/Special Relativity.md",
     "Notes/Theoretical Mechanics 1/Class Notes/2024-01-23 Lagrangian Mechanics.md",
-    "Notes/Theoretical Mechanics 1/Class Notes/Classical  Review.md",
     "Notes/Theoretical Mechanics 1/Class Notes/Concepts/Lagrangian Mechanics.md",
     "Notes/Theoretical Mechanics 1/Class Notes/Concepts/interaction potential.md",
     "Notes/Theoretical Mechanics 1/Class Notes/Concepts/Inelastic collisions.md",
@@ -191,7 +192,6 @@
     "Notes/Theoretical Mechanics 1/Class Notes/Concepts/configuration space.md",
     "Notes/Theoretical Mechanics 1/Class Notes/Concepts/Central Forces.md",
     "Notes/Theoretical Mechanics 1/Class Notes/Concepts/Cartesian Coordinates.md",
-    "Notes/Theoretical Mechanics 1/Class Notes/Concepts/Brachistachrone Problem.md",
     "Notes/Theoretical Mechanics 1/Resources/Theoretical Mechanics Final Resources.md",
     "Notes/Theoretical Mechanics 1/Resources/Theoretical Mechanics Exam 2 Resources.md",
     "Notes/Theoretical Mechanics 1/Resources/Theoretical Mechanics Exam 1 Resources.md",
