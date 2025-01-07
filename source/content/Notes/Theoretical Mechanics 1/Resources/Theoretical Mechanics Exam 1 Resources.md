@@ -5,7 +5,7 @@ dg-publish: true
 - Tuesday 2/13 form 8-9:50
 - 4 problems, each problem should be ~ half hour
 - Concepts covered
-	- [[Classical  Review]]
+	- [[2024-01-03 Classical  Review]]
 	- [[Special Relativity]]
 		- Have numbers in it, will be simple numbers
 		- Boost Equations
@@ -29,11 +29,11 @@ Concepts covered:
 
 [[Special Relativity]]
 
-[[Classical  Review]]
+[[2024-01-03 Classical  Review]]
 
 Relevant notes: 
 
-[[Classical  Review]]
+[[2024-01-03 Classical  Review]]
 
 [[2024-01-16  Reference Frames]]
 

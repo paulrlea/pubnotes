@@ -116,7 +116,7 @@ $$
 $$
 x = \frac{1}{2}at^{2} + c_{1}t + c_{2}
 $$
-	$c_{1}$ and $c_{2}$ come from initial conditions
+> $c_{1}$ and $c_{2}$ come from initial conditions
 
 - The initial conditions are what makes the problems unique
 $$
@@ -282,7 +282,7 @@ Conservation of mechanical energy
 $$
 \Delta T = -\Delta U
 $$
-	for position-dependent (conservative) forces
+> for position-dependent (conservative) forces
 
 Can solve mechanical systems using energy conservation to get equation of motion 
 

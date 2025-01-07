@@ -17,7 +17,7 @@ title: Theoretical Mechanics
 
 ## Notes: 
 
-[[Classical  Review]]
+[[2024-01-03 Classical  Review]]
 
 [[2024-01-16  Reference Frames]]
 
