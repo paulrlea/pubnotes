@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/London.md",
+                "file": "Blog/Blog Hub.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "London"
+              "title": "Blog Hub"
             }
           }
         ]
@@ -176,10 +176,14 @@
   },
   "active": "6a29084ea6a38e73",
   "lastOpenFiles": [
+    "Blog/Fitness.md",
     "Blog/Blog Hub.md",
-    "Blog/Arriving in London.md",
-    "index.md",
     "Blog/London.md",
+    "Fitness/Dieting.md",
+    "Fitness",
+    "Blog/Arriving in London.md",
+    "Blog/Untitled.md",
+    "index.md",
     "Blog/Brighton.md",
     "Notes/Theoretical Mechanics 1/Class Notes/2024-01-03 Classical  Review.md",
     "Notes/Theoretical Mechanics 1/Class Notes/2024-04-23 TMECH.md",
@@ -201,9 +205,6 @@
     "Notes/Theoretical Mechanics 1/Class Notes/2024-03-26 Oscillations.md",
     "Notes/Theoretical Mechanics 1/Class Notes/2024-03-19 Rotating Rigid Bodies.md",
     "Notes/Theoretical Mechanics 1/Class Notes/2024-02-27 Collisions.md",
-    "Notes/Theoretical Mechanics 1/Class Notes/2024-02-09 Angular and Hamiltonian.md",
-    "Notes/Theoretical Mechanics 1/Class Notes/2024-01-30 Calc. of Variations Continued.md",
-    "Notes/Theoretical Mechanics 1/Class Notes/2024-01-26 Calc. of Variations.md",
     "Notes/Theoretical Mechanics 1/HW/HW 10 2024.pdf",
     "Notes/Theoretical Mechanics 1/HW/HW 8 2024.pdf",
     "Notes/Theoretical Mechanics 1/HW/HW 11 2024.pdf",
@@ -211,7 +212,6 @@
     "Notes/Theoretical Mechanics 1/HW/HW 7 2024.pdf",
     "Notes/Theoretical Mechanics 1/HW/HW 6 2024.pdf",
     "Notes/Theoretical Mechanics 1/HW/HW 5 2024.pdf",
-    "Notes/Theoretical Mechanics 1/HW/HW 4 2024.pdf",
     "Attachments/Pasted image 20231024215057.png",
     "Attachments/Pasted image 20231024215044.png",
     "Attachments/Pasted image 20231024214701.png",

@@ -76,6 +76,7 @@ Museums are almost all free!
 ## Nearby Attractions: 
 - Fly to Ireland 
 - Go to Cambridge, oxford. Really pretty little towns 
+- Salisbury and Stonehenge
 - Go to bath. A roman town. Go to the baths at bath. Afternoon tea is good n cheap. 
 - All of Europe is easily accessible via plane/train
 
