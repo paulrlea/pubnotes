@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "London Trip.md",
+                "file": "Blog/London.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "London Trip"
+              "title": "London"
             }
           }
         ]
@@ -177,7 +177,10 @@
   "active": "6a29084ea6a38e73",
   "lastOpenFiles": [
     "Blog/Blog Hub.md",
-    "London Trip.md",
+    "Blog/Arriving in London.md",
+    "index.md",
+    "Blog/London.md",
+    "Blog/Brighton.md",
     "Notes/Theoretical Mechanics 1/Class Notes/2024-01-03 Classical  Review.md",
     "Notes/Theoretical Mechanics 1/Class Notes/2024-04-23 TMECH.md",
     "Notes/Theoretical Mechanics 1/Class Notes/2024-04-19 Loaded String.md",
@@ -201,9 +204,6 @@
     "Notes/Theoretical Mechanics 1/Class Notes/2024-02-09 Angular and Hamiltonian.md",
     "Notes/Theoretical Mechanics 1/Class Notes/2024-01-30 Calc. of Variations Continued.md",
     "Notes/Theoretical Mechanics 1/Class Notes/2024-01-26 Calc. of Variations.md",
-    "Notes/Theoretical Mechanics 1/Class Notes/2024-01-23 Lagrangian Mechanics.md",
-    "Notes/Theoretical Mechanics 1/Class Notes/2024-01-19 Special Relativity.md",
-    "Notes/Theoretical Mechanics 1/Class Notes/2024-01-16  Reference Frames.md",
     "Notes/Theoretical Mechanics 1/HW/HW 10 2024.pdf",
     "Notes/Theoretical Mechanics 1/HW/HW 8 2024.pdf",
     "Notes/Theoretical Mechanics 1/HW/HW 11 2024.pdf",
