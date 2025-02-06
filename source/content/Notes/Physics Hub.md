@@ -1,25 +1,22 @@
 # Topics In Physics
-## Physics 1: 
+## [[Introductory Modern Physics]]:
+## [[Physics 1]]:
 ### Newtonian (Classical) Motion
 
 ### Introductory Thermodynamics (Korniss Special)
 
 ## Physics 2:
-### Electromagnetism
-### Circuits
+
 ## [[Theoretical Mechanics]]:
 
-
-## Introductory Modern Physics:
-
 ## Quantum Physics 1: 
-## Electromagnetic Theory 
+## Electromagnetic Theory:
 
-## Experimental Physics
+## Experimental Physics:
 
-## Group Theory and Physics
+## Group Theory and Physics:
 
-## Physics in Computing
+## Physics in Computing:
 
 
 
