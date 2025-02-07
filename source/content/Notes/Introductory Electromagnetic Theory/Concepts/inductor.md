@@ -1,0 +1,3 @@
+- An [[inductor]] is a device that only has a potential across it when there is a change in current. An inductor generates a magnetic field if you have a change in current. With a constant current, the inductor does nothing. No potential difference $\equiv$ no change in current and vise versa
+-  The sign of the [[potential]] drop is in such a way as to oppose the change. The inductor attempts to "maintain" the current as it was previously. 
+	- Increasing current => negative potential and vise versa

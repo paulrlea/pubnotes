@@ -5,7 +5,7 @@
 
 ## Times and Positions
 
-![[Pasted image 20250206191657.png]]
+![[Pasted image 20250206191657 1.png]]
 
 > Figure 1: A pendulum's motion plotted
 
@@ -39,7 +39,7 @@ Now that we have gone through this, we can continue our mathematical conquest.
 
 If we decide to leave our trusty pendulum analogy behind, we can explore the world of oscillations in space. Like a plucked string, or a light wave frozen in space. 
 
-![[Pasted image 20250206194012.png]]
+![[Pasted image 20250206194012 1.png]]
 
 > Fig 2: Spatial Oscillations
 

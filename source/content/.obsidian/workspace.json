@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6a29084ea6a38e73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Introductory Modern Physics/Contents/Traveling Waves.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Traveling Waves"
-            }
-          },
-          {
             "id": "5c98ed0a4fef6f90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/London/London.md",
+                "file": "Notes/Physics Hub.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "London"
+              "title": "Physics Hub"
             }
           }
         ]
@@ -92,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 428.5
+    "width": 280.5
   },
   "right": {
     "id": "ba1ec06a672fb227",
@@ -189,52 +175,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6a29084ea6a38e73",
+  "active": "5c98ed0a4fef6f90",
   "lastOpenFiles": [
-    "Notes/Introductory Modern Physics/Contents/Superposition and Interference.md",
-    "Notes/Introductory Modern Physics/Contents/Oscillations and Waves.md",
-    "Notes/Introductory Modern Physics/Contents/Traveling Waves.md",
-    "Blog/London/London.md",
-    "Blog/London/1-13-25 Arriving in London.md",
-    "Blog/Blog Hub.md",
-    "Blog/London/Vienna.md",
-    "Blog/London/1-22-25 First weeks in London.md",
-    "Blog/London/Travel Plans.md",
-    "Blog/London/February Trip.md",
-    "Blog/London/Clubs.md",
-    "Notes/Introductory Modern Physics/Introductory Modern Physics.md",
-    "Pasted image 20250206194012.png",
-    "Pasted image 20250206193554.png",
-    "Pasted image 20250206191657.png",
-    "Notes/Introductory Modern Physics/Contents/Harmonic Oscillations.md",
-    "Notes/Introductory Modern Physics/Contents/Light Waves.md",
-    "Notes/Introductory Modern Physics/Contents/Duel Nature of Light.md",
-    "Gravitational Waves.md",
-    "Notes/Introductory Modern Physics/Contents/Mach-Zehnder Interferometer.md",
-    "Notes/Introductory Modern Physics/Contents",
-    "Notes/Theoretical Mechanics 1/Theoretical Mechanics.md",
-    "Notes/Theoretical Mechanics 1/Resources/Back exam 1 Work.md",
-    "Notes/Theoretical Mechanics 1/Resources/Final Equations.md",
-    "Notes/Theoretical Mechanics 1/Resources/Mock Final.md",
-    "Notes/Theoretical Mechanics 1/Resources/S23 Exam 1 Martin 4330.pdf",
-    "Notes/Theoretical Mechanics 1/Resources/Theoretical Mechanics Book.pdf",
-    "Notes/Introductory Modern Physics",
+    "Notes/Electromagnetic Theory/Electromagnetic Theory.md",
     "Notes/Physics Hub.md",
-    "index.md",
-    "Blog/Fitness/Fitness.md",
-    "Blog/Fitness/GOMAD Diet.md",
-    "Blog/Fitness",
-    "Blog/London",
-    "Fitness",
-    "Notes/Theoretical Mechanics 1/HW/HW 10 2024.pdf",
-    "Notes/Theoretical Mechanics 1/HW/HW 8 2024.pdf",
-    "Notes/Theoretical Mechanics 1/HW/HW 11 2024.pdf",
-    "Attachments/Pasted image 20231024215057.png",
-    "Attachments/Pasted image 20231024215044.png",
-    "Attachments/Pasted image 20231024214701.png",
-    "Attachments/Pasted image 20231024213105.png",
-    "Attachments/Pasted image 20231024214645.png",
-    "Attachments/Pasted image 20240327165141.png",
-    "Attachments/Pasted image 20231121141206.png"
+    "Notes/Introductory Electromagnetic Theory/Lectures/Physics 2 Lecture 26.md",
+    "Notes/Introductory Electromagnetic Theory/Lectures/Physics 2 Lecture 25.md",
+    "Notes/Introductory Electromagnetic Theory/Lectures/Physics 2 Lecture 19.md",
+    "Notes/Introductory Electromagnetic Theory/Lectures/Physics 2 Lecture 18.md",
+    "Notes/Introductory Electromagnetic Theory/Lectures/Physics 2 Lecture 17.md",
+    "Notes/Introductory Electromagnetic Theory/Lectures/Physics 2 Lecture 16.md",
+    "Notes/Introductory Electromagnetic Theory/Lectures/Physics 2 Lecture 13.md",
+    "Notes/Introductory Electromagnetic Theory/Lectures/Physics 2 Lecture 14.md",
+    "Notes/Introductory Electromagnetic Theory/Lectures/Physics 2 Lecture 12.md",
+    "Notes/Electromagnetic Theory/Books and Resources/Very Useful Vector Algebra, Vector Calculus and Basic Electrodyn_20210127_0001.pdf",
+    "Notes/Electromagnetic Theory/Books and Resources/[David_J._Griffiths]_Introduction_to_Electrodynami(z-lib.org).pdf",
+    "Notes/Electromagnetic Theory/Books and Resources/EM Theory Math Tricks.md",
+    "Notes/Electromagnetic Theory/EM Theory Exam 1 Review Materials by class.md",
+    "Notes/Math Background/Fourier Series.md",
+    "Notes/Math Background/Kronecker delta.md",
+    "Notes/Math Background/orthogonal.md",
+    "Notes/Math Background/linear combination.md",
+    "Notes/Math Background/gradient.md",
+    "Notes/Math Background/eigenfunction.md",
+    "Notes/Math Background/Topics to Cover in Advanced Calculus For EM theory.md",
+    "Notes/Math Background/Tensors.md",
+    "Notes/Math Background/Taylor Series.md",
+    "Notes/Math Background/Stokes Theorem.md",
+    "Notes/Math Background/Spherical Coordinates.md",
+    "Notes/Math Background/Polar Coordinates.md",
+    "Notes/Math Background/Line and Surface Integrals.md",
+    "Notes/Math Background",
+    "Notes/Introductory Electromagnetic Theory/Lectures/PDFs/Lecture 26 - Diffraction.pdf",
+    "Notes/Introductory Electromagnetic Theory/Lectures/PDFs/Lecture 25 - Interference.pdf",
+    "Notes/Introductory Electromagnetic Theory/Lectures/PDFs/Lecture 19 - Exponential analysis of ac circuits.pdf",
+    "Notes/Introductory Electromagnetic Theory/Lectures/PDFs/Lecture 18 - AC circuits and phasors.pdf",
+    "Notes/Introductory Electromagnetic Theory/Lectures/PDFs/Lecture 17 - Transient Circuits.pdf",
+    "Notes/Introductory Electromagnetic Theory/Lectures/PDFs/Lecture 16 - Inductance and EMF.pdf",
+    "Notes/Introductory Electromagnetic Theory/Lectures/PDFs/Lecture 15 - Maxwells Equations.pdf",
+    "Attachments/Pasted image 20231205144315 1.png",
+    "Attachments/Pasted image 20231205144308 1.png",
+    "Attachments/Pasted image 20231205144307 1.png",
+    "Attachments/Pasted image 20231205144304 1.png",
+    "Attachments/Pasted image 20231205112819 1.png",
+    "Attachments/Pasted image 20231205112133 1.png",
+    "Attachments/Pasted image 20231205111233 1.png",
+    "Attachments/Pasted image 20231205105738 1.png",
+    "Attachments/Pasted image 20231205105736 1.png",
+    "Attachments/Pasted image 20231205105643 1.png"
   ]
 }
