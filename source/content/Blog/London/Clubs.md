@@ -5,5 +5,13 @@ Me and a few friends visited Scala on a Wednesday night as part of a UCL student
 Heaven is a well-known gay club in London, and with good reason. The venue is expansive, being situated under Charing Cross railway station, and has an excellent literal underground feel to it. The drinks tend to be reasonably priced as well, between 3-4 pounds for a vodka or gin soda. I went with a few friends on a Thursday night, and it was pretty empty until around 11:45, I'd recommend trying to arrive right before the big rush to get situated early.
 
 ## Ministry of Sound
-From what I remember, the Ministry was an incredible time. You really can't beat the sound system, and the layout and design of the indoor spaces was top notch. I really liked how it had lots of balcony spaces and even seating areas to chat with your friends if you wanted a break from the dancing. The drinks were pricey, but that's not surprising given the reputation and location. Highly recommend, it's been my favorite dancing experience so far. 
+From what I remember, the Ministry was an incredible time. You really can't beat the sound system, and the layout and design of the indoor spaces was top notch. I really liked how it had lots of balcony spaces and even seating areas to chat with your friends if you wanted a break from the dancing. The drinks were pricey, but that's not surprising given the reputation and location. Highly recommend, it's been my favorite dancing experience so far.
+
+# The Egg
+
+# Colour Factory
+
+# E1
+
+
 
