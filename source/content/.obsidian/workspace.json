@@ -11,12 +11,14 @@
             "id": "5c98ed0a4fef6f90",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Notes/Pasted image 20250207115741.png"
+                "file": "Blog/London/Tromsø.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250207115741"
+              "icon": "lucide-file",
+              "title": "Tromsø"
             }
           }
         ]
@@ -173,10 +175,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "5c98ed0a4fef6f90",
   "lastOpenFiles": [
-    "Notes/Pasted image 20250207115756.png",
+    "Pasted image 20250408094301.png",
     "Notes/Pasted image 20250207115741.png",
+    "Notes/Pasted image 20250207115756.png",
     "Blog/London/1-13-25 Arriving in London.md",
     "Blog/Blog Hub.md",
     "Blog/Fitness/Fitness.md",
