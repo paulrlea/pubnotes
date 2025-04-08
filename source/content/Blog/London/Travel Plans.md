@@ -19,11 +19,12 @@ I'm making this list because I'm realizing that there is so much to see and do, 
 - Moyokos
 - Zagreb (Or some other Croatian Destination)
 - Tatra, Poland
-- Cyprus
+- [[Cyprus]]
 - Azores
 - Iceland
 - Oslo
-- Tromsø
+- [[Tromsø]]
 - Nærøyfjord
 
 February Reading Days Trip: [[February Trip]]
+

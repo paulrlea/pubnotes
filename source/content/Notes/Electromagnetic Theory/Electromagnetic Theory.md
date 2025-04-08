@@ -6,6 +6,9 @@ dg-publish: true
 **Office hours**: Wednesday 2 pm to 3:50 pm and by appointment. Office hours are virtual in Webex Meeting
 Room or in office (JROWL 1C20).
 
+Before class starts, know these topics:
+[[Topics to Cover in Advanced Calculus For EM theory]]
+
 [[2024-01-08 Syllabus|2024-01-08 Syllabus]]
 
 Exam 1 (electrostatics) notes: 

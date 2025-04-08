@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Physics Hub.md",
+                "file": "Blog/London/February Trip.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Physics Hub"
+              "title": "February Trip"
             }
           }
         ]
@@ -177,7 +177,13 @@
   },
   "active": "5c98ed0a4fef6f90",
   "lastOpenFiles": [
+    "Blog/London/London.md",
+    "Blog/London/Travel Plans.md",
+    "Blog/London/Vienna.md",
+    "Tromsø.md",
+    "Blog/Blog Hub.md",
     "Notes/Electromagnetic Theory/Electromagnetic Theory.md",
+    "Notes/Math Background/Topics to Cover in Advanced Calculus For EM theory.md",
     "Notes/Physics Hub.md",
     "Notes/Introductory Electromagnetic Theory/Lectures/Physics 2 Lecture 26.md",
     "Notes/Introductory Electromagnetic Theory/Lectures/Physics 2 Lecture 25.md",
@@ -198,13 +204,7 @@
     "Notes/Math Background/linear combination.md",
     "Notes/Math Background/gradient.md",
     "Notes/Math Background/eigenfunction.md",
-    "Notes/Math Background/Topics to Cover in Advanced Calculus For EM theory.md",
     "Notes/Math Background/Tensors.md",
-    "Notes/Math Background/Taylor Series.md",
-    "Notes/Math Background/Stokes Theorem.md",
-    "Notes/Math Background/Spherical Coordinates.md",
-    "Notes/Math Background/Polar Coordinates.md",
-    "Notes/Math Background/Line and Surface Integrals.md",
     "Notes/Math Background",
     "Notes/Introductory Electromagnetic Theory/Lectures/PDFs/Lecture 26 - Diffraction.pdf",
     "Notes/Introductory Electromagnetic Theory/Lectures/PDFs/Lecture 25 - Interference.pdf",
