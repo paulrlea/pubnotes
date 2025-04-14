@@ -9,9 +9,13 @@ From what I remember, the Ministry was an incredible time. You really can't beat
 
 # The Egg
 
+The Egg was a very fun smaller club located close to my accommodation. The staff were very friendly, and the venue was more cozy. The lighting and effects were unique, with a low ceiling and addressable light bars across the roof. There is also apparently a rooftop and other rooms, but they weren't open the night I went
 # Colour Factory
+
+This is a really cool offbeat joint in east London. It feels less like a club, and more like a concert venue or arts center. It appears to be situated in a repurposed industrial factory, leading to a distinctly warehouse-like atmosphere. There's also a rather decent chippy across the street.
 
 # E1
 
+Located in east London near the Shadwell overground station, E1 is another warehouse-like venue, with 2 large rooms. They play a lot of electronic music, and have a decent armada of special effects and lighting. Having gone two times, I think that it can be hit or miss depending on the amount of people there, because the rooms are quite spacious and it feels a bit empty if there's not enough people. 
 
 

@@ -1,6 +1,6 @@
 # 10-Day Budget Trip from Helsinki to London
 
-## **Day 1-2: Helsinki, Finland**
+## **Day 1-2: [[Helsinki]], Finland**
 - **Activities**:
   - Explore Suomenlinna Sea Fortress (accessible via a cheap ferry ride).
   - Visit the Helsinki Cathedral and Senate Square.
@@ -12,7 +12,7 @@
 
 ---
 
-## **Day 3-4: Tallinn, Estonia**
+## **Day 3-4: [[Tallinn]], Estonia**
 - **Transportation**: Take a ferry from Helsinki to Tallinn (~€25-30, ~2-3 hours).
 - **Activities**:
   - Wander through Tallinn’s Old Town (UNESCO World Heritage Site).
@@ -23,7 +23,7 @@
 
 ---
 
-## **Day 5-6: Riga, Latvia**
+## **Day 5-6: [[Riga]], Latvia**
 - **Transportation**: Take a budget bus (e.g., Lux Express, €15-20, ~4 hours).
 - **Activities**:
   - Explore Art Nouveau architecture in the city center.
@@ -34,16 +34,15 @@
 
 ---
 
-## **Day 7-8: Berlin
+## **Day 7-8: [[Berlin]]
 - **Transportation**: RyanAir flight.
-- 
 
 ---
 
-## **Day 9-10: Amsterdam
+## **Day 9-10: [[Amsterdam]]
 - **Transportation**: Take a train from Warsaw to Berlin
 - **Activities**:
-	- 
+	- Amsterdam
 
 - **Budget Tip**: Use public transportation day passes.
 - **Stay**: Budget hostel.

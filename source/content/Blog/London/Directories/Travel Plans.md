@@ -1,28 +1,25 @@
 ## Destinations to visit, in no particular order:
 - Dublin 
 - Edinburgh
-- Amsterdam (Reading Days)
+- [[Amsterdam]] 
 - Paris
 - Normandy 
 - Barcelona
-- Ibiza
 - [[Vienna]] 
-- Berlin (Reading Days)
+- [[Brighton and 7 Sisters]]
+- [[Oxford]]
+- [[Berlin]] (Reading Days)
 - Hamburg (Ask Raphael)
 - Munich (Ask Raphael)
 - Stuttgart 
 - Rome
 - Budapest
 - Athens
-- Moyokos
-- Zagreb (Or some other Croatian Destination)
+- [[Zadar]]
 - Tatra, Poland
 - [[Cyprus]]
-- Azores
-- Iceland
 - Oslo
-- [[Tromsø]]
-- Nærøyfjord
+- [[Tromsø Plan]]
 
 February Reading Days Trip: [[February Trip]]
 
