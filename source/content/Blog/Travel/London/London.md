@@ -1,3 +1,76 @@
+## Here's a sorted and abridged list of things to do/see/go 
+
+My good friend from the states studied abroad in London when he was in his freshmen year, and I picked his brain towards the end of winter break. Here are his recommendations, with my experiences linked. 
+
+## General Notes: 
+Everything has student discounts.
+Last minute tix or today tix for cheap tickets. 
+Book flights in advance. Flights are cheaper then train, but train is nicer. 
+## Restaurants/Food
+Restaurants close early in London. 
+- **Avoid** Costa for coffee
+- [[Dishoom]] (indian)
+- Circolo Popolare (pasta)
+- Fish and Chips is good in Soho, but better in [[Brighton and 7 Sisters]]. 
+- [[Pret]] (cheap good food)
+- Try a salted beef sandwich with liver 
+- St Paul's cathedral has a really good chicken Katsu place 
+## Clubs:
+See [[Clubs]] for clubs I've visited and my thoughts.
+- lightbox
+- ministry of sound 
+- the egg 
+- the box (weird)
+- the roxie (sucks)
+## Events
+- Uber Thames clipper.  Go at night, you'll go past London bridge at night 
+- Go to some soccer games (Premier League)
+- Shakesphere's globe
+- Comedy store
+- West end shows 
+## Bars/Pubs
+- if its busy on Thursday/Friday, lots of bankers. Probably at least half decent 
+- Connaught Bar. Best martinis in the world. (supposedly)
+## Museums:
+Museums are almost all free!
+- [[British Museum]]. Has Elgan marbles, Rosetta stone
+- Maritime museum
+- National gallery 
+- National portrait gallery
+- Victoria and Albert museum area (Aka VNA)
+- Design museum 
+- Transport museum 
+- Air and space and natural history museum
+- Royal Albert hall
+- [[The Tate]] (modern art museum). Also an old coal plant. 
+## Shopping:
+- Mayfair arcades
+- Burlington Arcade
+- Harrods
+- Fortnam and masons
+- Largest Lego store in the world
+- Covent Garden
+## Attractions: 
+- Windsor palace
+- [[Buckingham]] is not worth it 
+- Cotswolds (area of natural beauty)
+- Batternsea park
+- [[Big Ben]]
+- [[Westminster]]
+- [[The Garden at 120]]
+- Covent Garden
+- London eye not worth it unless u get free tickets 
+- Piccadilly circus and lester square 
+- Kensington Gardens
+- [[Greenwich park]]
+## Nearby Attractions: 
+- Fly to Ireland 
+- Go to Cambridge, [[Oxford]]. Really pretty little towns 
+- Salisbury and Stonehenge
+- Go to bath. A roman town. Go to the baths at bath. Afternoon tea is good n cheap. 
+- All of Europe is easily accessible via plane/train. See 
+
+
 
 Arriving in London I had pulled an all-nigher on the plane. I would highly recommend against this, had I slept I would have been much more functional when I arrived. I'd recommend taking the black cab from the airport to your accommodations if you have more baggage like I did, otherwise the underground is much cheaper. I spent the first day getting my dormitory setup, and trying to not fall asleep. Learned a little about local stores, there is a chain called Sainsbury's, similar to a Kroger or Tom Thumb in the states. Additionally, there is an Aldi's and a variety of smaller corner marts nearby, which I found to be very convenient. 
 
@@ -20,7 +93,6 @@ This is one that people might not really think of, but people tend to dress quit
 > Travel:
 
 Intercity transport in London is very good on public transit, but it does cost a bit. If you're staying for any period of time, I'd look at getting a bicycle. This will enable you to get around a lot cheaper, and for free in the cases of nearby destinations. (also riding a bike in London is really fun). If you plan on taking the train around the greater UK area, I'd also recommend considering getting a National rail Railcard, it saves 30% on train fares. 
-
 
 
 

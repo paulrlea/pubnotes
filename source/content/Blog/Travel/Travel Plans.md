@@ -6,6 +6,7 @@
 - Normandy 
 - Barcelona
 - [[Vienna]] 
+- [[Helsinki]]
 - [[Brighton and 7 Sisters]]
 - [[Oxford]]
 - [[Berlin]] (Reading Days)
@@ -21,5 +22,5 @@
 - Oslo
 - [[Tromsø Plan]]
 
-February Reading Days Trip: [[February Trip]]
+
 

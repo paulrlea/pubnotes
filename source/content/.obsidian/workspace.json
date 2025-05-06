@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/London/Arriving in London.md",
+                "file": "Blog/Travel/Albania -> Croatia/Albania.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arriving in London"
+              "title": "Albania"
             }
           }
         ]
@@ -155,9 +155,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "29fb65e24039de9d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -172,56 +182,58 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "random-note:Open random note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "5c98ed0a4fef6f90",
   "lastOpenFiles": [
-    "Blog/London/Longer Trips/Zadar.md",
-    "Blog/London/Longer Trips/Tallinn.md",
-    "Blog/London/Longer Trips/Vienna.md",
-    "Blog/London/Longer Trips/Helsinki.md",
-    "Blog/London/Longer Trips/Berlin.md",
-    "Blog/London/Longer Trips/Amsterdam.md",
-    "Blog/London/Directories/Travel Plans.md",
-    "Blog/London/Day Trips/Oxford.md",
-    "Blog/London/Day Trips/Canterbury.md",
-    "Blog/London/Day Trips/Brighton and 7 Sisters.md",
-    "Blog/London/Attractions/Pret.md",
-    "Blog/Photography/architecture.md",
-    "Blog/Photography/landscapes.md",
-    "Blog/Photography/people.md",
-    "Blog/Photography/street art.md",
-    "Blog/Photography/Photography.md",
-    "Blog/Photography/Pentax IST-DL.md",
-    "Attachments/IMGP1480.jpg",
-    "Attachments/IMGP1684.jpg",
-    "Attachments/IMGP1360.jpg",
-    "Attachments/IMGP1433.jpg",
-    "Attachments/IMGP1306.jpg",
-    "Attachments/Pasted image 20250414151220.png",
-    "Attachments/Pasted image 20250414151226.png",
-    "Attachments/Pasted image 20250414150855.png",
-    "Attachments/Pasted image 20250414150833.png",
-    "Attachments/Pasted image 20250414150021.png",
-    "Blog/Photography",
-    "Blog/Blog Hub.md",
-    "Blog/London/Directories/Clubs.md",
-    "Blog/London/London.md",
-    "Blog/London/Arriving in London.md",
-    "Blog/London/Longer Trips/Riga.md",
-    "Blog/London/Longer Trips/Cyprus.md",
-    "Blog/London/Longer Trips/Plans/Tromsø Plan.md",
-    "Blog/London/Longer Trips/Plans/February Trip.md",
-    "Blog/London/Longer Trips/Plans",
+    "IMGP6320.jpg",
+    "IMGP6095.jpg",
+    "IMGP6340.jpg",
+    "IMGP5943.jpg",
+    "IMGP5944.jpg",
+    "IMGP5946.jpg",
+    "IMGP5949.jpg",
+    "IMGP5682.jpg",
+    "IMGP5712.jpg",
+    "IMGP5700.jpg",
+    "IMGP5501.jpg",
+    "Blog/Travel/Cyprus.md",
+    "Blog/Travel/Vienna.md",
+    "Blog/Travel/Travel Plans.md",
+    "Blog/Travel/Albania -> Croatia/Zadar.md",
+    "Blog/Travel/Albania -> Croatia/Albania.md",
+    "Blog/Travel/Albania -> Croatia",
+    "Blog/Travel/Tromso -> Luftoten Islands/Tromsø Plan.md",
+    "Blog/Travel/London/London.md",
+    "Blog/Travel/London/Arriving in London.md",
+    "Blog/Travel/London/Directories/Clubs.md",
+    "Blog/Travel/London/Day Trips/Oxford.md",
+    "Blog/Travel/London/Day Trips/Canterbury.md",
+    "Blog/Travel/London/Day Trips/Brighton and 7 Sisters.md",
+    "Blog/Travel/Baltics -> Amsterdam/February Trip.md",
+    "Blog/Travel/London/Attractions/Pret.md",
+    "Blog/Travel/Baltics -> Amsterdam",
+    "Blog/Travel/Untitled.md",
     "index.md",
-    "Blog/London/Attractions",
-    "Blog/London/Directories",
-    "Blog/London/Longer Trips",
-    "Blog/London/Day Trips",
-    "Notes/Electromagnetic Theory/Books and Resources/Very Useful Vector Algebra, Vector Calculus and Basic Electrodyn_20210127_0001.pdf",
-    "Notes/Electromagnetic Theory/Books and Resources/[David_J._Griffiths]_Introduction_to_Electrodynami(z-lib.org).pdf",
-    "Notes/Math Background",
-    "Notes/Introductory Electromagnetic Theory/Lectures/PDFs/Lecture 26 - Diffraction.pdf"
+    "Blog/Physical/Exercise/Exercise Methods.md",
+    "Blog/Physical/Supplements, Diet/Protein and Diet.md",
+    "Blog/Physical/Supplements, Diet/Creatine.md",
+    "Blog/Physical/Goals.md",
+    "Notes/Introductory Electromagnetic Theory/Lectures/PDFs/Lecture 14 - Amperes Law.pdf",
+    "Blog/Travel",
+    "Notes/Introductory Electromagnetic Theory/Lectures/PDFs/Lecture 16 - Inductance and EMF.pdf",
+    "Notes/Physics Hub.md",
+    "Notes/Summer Review Material.md",
+    "Notes/Math Background/Euler's Formula.md",
+    "Notes/Math Background/Fourier Coefficient.md",
+    "Notes/Electromagnetic Theory/Lecture Notes/Electrostatics/2024-02-01 Laplace's Equation Fourier Series.md",
+    "Blog/Physical/Exercise",
+    "Blog/Physical/Supplements, Diet",
+    "Blog/Physical",
+    "Blog/Photography/Untitled",
+    "Notes/Physics of Advanced Materials/Untitled"
   ]
 }

@@ -21,7 +21,7 @@ Builds Directly off [[Introductory Electromagnetic Theory]]. Rigorous, and in de
 
 > This page is a WIP but mostly done
 ## Experimental Physics:
-AGGGHHHHHHHHHHHH. There are no note I can provide on this class. You just have to get through it. Try and learn python if you can, especially matplotlib and numpy. You will spend many, many, many hours on this class. 
+This class is painful. There are no notes I can really provide on this class. You just have to get through it. Try and learn python if you can, especially matplotlib and numpy. You will spend many, many, many hours on this class. 
 
 ## Thermodynamics and Statistical Mechanics:
 I will not be able to provide a good set of notes or overview for this course, because most of what I did was with Dr Korniss, not Dr. Terrones, and thus the content was differently geared. 
@@ -31,6 +31,7 @@ I will not be able to provide a good set of notes or overview for this course, b
 
 ## Group Theory and Physics: 
 This is Prof. Georg's summer special interest course on group theory, and it's applications to physics. Extremely challenging, extremely enlightening once you understand. Highly recommend, 10/10. 
+
 
 
 
