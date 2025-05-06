@@ -19,6 +19,7 @@
 - [[Zadar]]
 - Tatra, Poland
 - [[Cyprus]]
+- [[Albania]]
 - Oslo
 - [[Tromsø Plan]]
 

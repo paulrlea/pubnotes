@@ -1,4 +1,4 @@
-# 10-Day Budget Trip from Helsinki to London
+# 10-Day Trip from Helsinki to London
 
 ## **Day 1-2: [[Helsinki]], Finland**
 - **Activities**:

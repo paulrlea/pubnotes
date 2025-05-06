@@ -1,3 +1,4 @@
+
 Here are the goals for what I want to be able to acomplish by the end of the Calendar year 2025:
 
 Gain 10 lbs (180lbs -> 190lbs)
@@ -12,7 +13,10 @@ Bench BW
 Deadlift 335 for 6-7
 
 Maintain healthy diet, eat veggies, etc etc
+## Exercise
+[[Exercise Methods]]
 
-
-
+## Supplements and Diet
+[[Creatine]]
+[[Protein and Diet]]
 
