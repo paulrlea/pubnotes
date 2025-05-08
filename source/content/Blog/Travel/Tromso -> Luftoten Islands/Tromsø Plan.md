@@ -1,148 +1,156 @@
-# Flights:
+### Itinerary:
 
-All times in local time zone  
-Tromsø is one hour ahead of the UK
-
-**Flight from Heathrow LHR to Tromsø TOS:**  
-Departs LHR 07:50 on Friday, May 9th  
-Arrives TOS 13:05 on same day
-
-**2nd Flight arrival:**  
-Tromsø TOS — evening of May 9th (~22:00–22:30)
-
-**Flight from Tromsø TOS to Heathrow LHR:**  
-Departs TOS 16:50 on Wednesday, May 14th  
-Arrives LHR 21:35 same day
-
----
-
-# Itinerary:
-
-## Friday, May 9th:
+#### Friday, May 9th:
 
 - Arrive Tromsø 13:05
 - Duty-free booze stop on the way out
 - Camper pickup at 14:00 (airport)
-- Go shopping for supplies:
 
-> **Supplies**
+**Supplies:**
 
-- Blankets, pillows
-- Toilet chemical tabs
+- Blankets, pillows (Included with camper)
+- Toilet chemical tabs (Will need to buy)
 - Food & water
 - Beer
 - Propane/gas
-- Towels if not packed
+- Towels if not packed (Bring trekking/camp towels)
 
-> **Stores**
+**Stores:**
 
 - Europris
 - Coop Obs!
 - Gas stations/outdoor shops for propane canister
 
-**IMPORTANT:** Stock up here Tromsø is cheapest by far.
+**Tip:** Stock up here; Tromsø is the cheapest by far.
 
+- Go shopping for food and supplies
 - Prep the van, eat, maybe check out the harbor or chill at a café
 - Return to Tromsø Airport by 21:15 to pick up rest of group
-- Head out of Tromsø toward Skibotn (~2.5 hr drive)  or wild camp closer if it’s too late. Check regulations in the area. Luftoen is quite strict on wild camping, but we may not make it to Lufoten proper. 
+- Head out of Tromsø toward Brensholmen
+- Check regulations in the area (Lofoten can be strict on wild camping)
 
-**Overnight:** Wild camp or **Skibotn Camping**
+**Overnight:** Parking lot near or in Brensholmen
 
 ---
 
-## Saturday, May 10th:
+#### Saturday, May 10th:
+- Should cost around 38 pounds for [ticket](https://svipper.no/menu/tickets/ferry-fares/) on the 81 ferry
+![[Pasted image 20250508105229.png]]
+- Explore Senja: Optional short hikes (Anderdalen National Park)
+- Long drive to Skagsanden Beach (9 hrs total)
+- Suggested breaks: Gryllefjord (views), Finnsnes (supplies)
+![[Pasted image 20250508114936.png]]
+**Overnight:** [Lufoten Beach Camp](https://www.lofotenbeachcamp.no/camping)
 
-- Optional: **Polar Park** visit (~1.5 hrs from Skibotn)
+---
+
+#### Sunday, May 11th:
+
+- Discover Lofoten: Visit the fishing village of Reine for iconic views.
+- Go kayaking or take a boat tour around the nearby fjords.    
+- Explore Hamnøy village and photograph the iconic red cabins.
+- Visit the Reine Cultural Center (local crafts and history).
+- Optional hike: Bunes Beach (accessible by boat from Reine).
+- Evening drive to Haukland Beach for sunset and a seaside walk.
+
+**Overnight:** Wild camp near Haukland Beach
+
+---
+
+#### Monday, May 12th:
+
+- Optional: Reinebringen Hike (iconic view)
+- Visit Å village (historic fishing village)
+- Drive east (~2 hrs) to Henningsvær
+
+**Stops:**
+
+- Lofotr Viking Museum (rainy day or cultural stop)
+- Henningsvær harbor (coffee and art)
+
+**Overnight:** Wild camp near Henningsvær
+
+---
+
+#### Tuesday, May 13th:
+
+- Drive to Skibotn
+- Optional: Polar Park (wildlife)
 - Svarteberget hike
-- Skibotndissa for photos
-- Scenic drive toward Lofoten (~6 hrs total)
-- Pass Narvik, join E10 toward Å
+- Skibotndissa (photo spot)
 
-Evening:
-
-- Camp at **Ramberg Beach** or **Flakstad** (great wild camping near sea)
+**Overnight:** Skibotn campsite or wild camp
 
 ---
 
-## Sunday, May 11th:
+#### Wednesday, May 14th:
 
-- Hike **Ryten + Kvalvika Beach** (3–4 hr round trip)
-- Kråktuva senic vista
-- Volandstind hike as well
-- Molneva Waterfall
-- Visit **Nusfjord** (UNESCO fishing village)
-- Head to **Reine**, **Sakrisøy**, **Hamnøy** for views and photos
-
-**Overnight:** Near **Å i Lofoten** or **Moskenes Camping**
+- Early drive to Tromsø
+- Return camper by 10:00
+- Chill in Tromsø (harbor, Arctic Cathedral)
+- Optional: Fjellheisen cable car for views
+- Head to airport by 15:00
+- Flight departs 16:50
 
 ---
 
-## Monday, May 12th:
+### Camping Options:
 
-- Optional: **Reinebringen Hike** (steep but unreal views)
-- Explore **Å** village
-- Begin drive back east (~2 hrs) toward **Henningsvær**
-
-Stop at:
-
-- **Lofotr Viking Museum** (if raining or for a cultural break)
-
-**Evening in Henningsvær:**
-
-- Chill harbor vibes, art gallery, great coffee
-- Camp nearby or wild camp
-
+- Tromsø: Airport area (no camping needed)
+- Lofoten: Lofoten Beach Camp, Bobil Parkering Avløysinga
+- Sørvågen: Moskenes Camping, museum parking (67°52'58.2"N 12°59'01.4"E)
+- Henningsvær: Lofoten Bobilcamping AS, Kabelvåg Feriehus and Camping
+- Skibotn: Gravel parking lot (69°24'11.3"N 20°16'02.8"E), Strandbu camping
 ---
 
-## Tuesday, May 13th:
+### Key Tips:
 
-- Morning walk around Henningsvær
-- Henningsvaer Stadium looks pretty cool
-- Start driving back to Tromsø area (~6–7 hrs total)
-- Overnight somewhere ~2 hrs from Tromsø (e.g., **Gratangsbotn**, **Bardu**, or **Nordkjosbotn**)
+- Bring layers; weather can change rapidly
+- Be mindful of wild camping rules (especially in Lofoten)
+- Check ferry schedules ahead of time
+- Enjoy the journey. Plenty of scenic breaks and short hikes along the way!
 
----
 
-## Wednesday, May 14th:
+## Packing List
 
-- Early morning drive to Tromsø
-- **Return camper by 10:00**
-- Chill in town, walk by the harbor, café, Tromsø Bridge, Arctic Cathedral
-- Optional: take **Fjellheisen cable car** for city + fjord views
-- **Head to airport by 15:00**
-- **Flight departs 16:50**
+### Essentials:
 
-![[Pasted image 20250408094301.png]]
-https://maps.app.goo.gl/dmFafNbR62CrSRKH7
+- Passport and ID
+- Driver’s license
+- Credit/debit card, cash (NOK)
+- Phone and charger
 
-**Destinations and Campsites**
-**5/9 and 5/14: Tromsø, Norway**
-No camping required. 
+### Clothing:
 
-**5/9-5/10: Skibotn, 9143, Norway** 
-69°24'11.3"N 20°16'02.8"E : Good gravel parking lot, little bit outside of town.
-Strandbu camping: Offical campsite, with power hookups. Also has sauna rental! 
+- Waterproof jacket and pants
+- Warm layers (fleece, thermal top)    
+- Base layers (2-3 sets)
+- Hat, gloves
+- Hiking boots and socks
+- Sandals/Slides
+- Sleepwear
 
-**Ramberg beach, Flakstadveien 371, 8380 Ramberg, Norway**
-Fredvang Parking: Seems like an empty lot, costs money. Not sure how much
-Lofoten Beach Camp: Very nice, costs a good amount tho. 62 dollars/night with power hookup
-Bobil Parkering Avløysinga: Cheaper option. Good views apparently. No toilet.
+### Camping Gear:
 
-**Sørvågen, Norway**
+- Trekking towel
+- Water bottle
+- Gas canister (buy locally)
+- Trekking Poles
+### Food & Drink (Purchase on site)
 
-Moskenes Camping: Seems to be popular, probably expensive
-67°52'58.2"N 12°59'01.4"E: Gravel parking lot near museum. Ask museum people if we can park overnight.
-Akkarvikodden rasteplass: Little bit further east, dont know if you're allowed to park here. 
-67°57'40.4"N 13°08'49.8"E: Gravel lot. Dunno if you're allowed to park here either. 
-68°02'11.7"N 13°04'56.3"E: Completely different part of luftoen, but seems like a remote trailhead, with a parking spot. 
+- Non-perishables (pasta, rice, snacks)
+- Fresh basics (bread, cheese, veggies)
+- **Coffee/tea**
 
-**Henningsvær, 8312, Norway**
-Lofoten Bobilcamping As: Cant find info
-Kabelvåg Feriehus and Camping: 54 dollars a night
-68°09'29.5"N 14°13'09.5"E: Dirt patch
+### Personal Care:
 
-**Gratangsbotn, 9470, Norway**
-Øse Camping
-Langmyra
-Camp Leigas
+- Toiletries (soap, toothpaste, toothbrush)
+- Personal meds
+- First aid basics
 
+### Miscellaneous:
+
+- Power bank
+- Compact backpack for hikes
+- Trash bags
+- Entertainment (Card games, etc etc)
