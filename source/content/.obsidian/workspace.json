@@ -11,14 +11,10 @@
             "id": "63888887e15c1788",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blog/Photography/people.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "people"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -167,12 +163,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,42 +184,42 @@
   },
   "active": "63888887e15c1788",
   "lastOpenFiles": [
-    "IMGP3550.jpg",
-    "IMGP3565.jpg",
-    "Blog/Photography/Photography.md",
-    "Blog/Photography/street-urban.md",
-    "IMGP2028.jpg",
-    "IMGP2018.jpg",
-    "IMGP1953.jpg",
-    "Blog/Photography/people.md",
+    "Notes/Electromagnetic Theory/Lecture Slides/Electrodynamics /Class 23 Lienard-Wiechert Potentials 041723.pdf",
+    "index.md",
+    "Notes/Electromagnetic Theory/Books and Resources/EM Theory Math Tricks.md",
+    "Notes/Introductory Electromagnetic Theory/Introductory Electromagnetic Theory.md",
+    "Blog/Travel/London/Day Trips/Canterbury.md",
+    "Multipole Expansion.md",
+    "Notes/Theoretical Mechanics 1/Class Notes/Concepts/forces of constraint.md",
+    "Notes/Theoretical Mechanics 1/Class Notes/2024-01-30 Calc. of Variations Continued.md",
+    "Notes/Theoretical Mechanics 1/Resources/Theoretical Mechanics Exam 1 Resources.md",
+    "Blog/Travel/London/Day Trips/Oxford.md",
+    "Notes/Theoretical Mechanics 1/Class Notes/2024-02-27 Collisions.md",
     "Blog/Photography/Pentax IST-DL.md",
-    "Blog/Photography/landscapes.md",
-    "Blog/Photography/architecture.md",
+    "Notes/Physics of Advanced Materials/Quasiparticle.md",
+    "Notes/Introductory Electromagnetic Theory/Lectures/Physics 2 Lecture 12.md",
+    "Notes/Introductory Electromagnetic Theory/Exam 2 Prep/Exam 2 Work.md",
+    "Notes/Theoretical Mechanics 1/Resources/Back exam 1 Work.md",
+    "Notes/Theoretical Mechanics 1/Resources/Mock Final.md",
+    "Blog/Blog Hub.md",
+    "Blog/Travel/London/Directories/Clubs.md",
+    "Notes/Physics Hub.md",
+    "Attachments/IMGP1953.jpg",
+    "Attachments/IMGP2018.jpg",
+    "Attachments/IMGP3550.jpg",
+    "Attachments/IMGP3565.jpg",
+    "Attachments/IMGP6716.jpg",
+    "Attachments/IMGP6752.jpg",
     "Blog/Physical/Supplements, Diet/Creatine.md",
+    "Blog/Physical/Physical Stuff.md",
     "Blog/Physical/Supplements, Diet/Protein and Diet.md",
     "Blog/Physical/Exercise/Exercise Methods.md",
-    "Blog/Physical/Physical Stuff.md",
-    "Blog/Blog Hub.md",
-    "Blog/Travel/Vienna.md",
-    "Blog/Travel/Travel Plans.md",
-    "Blog/Travel/Tromso -> Luftoten Islands/Tromsø Plan.md",
-    "Blog/Travel/London/Directories/Clubs.md",
-    "Blog/Travel/London/Day Trips/Canterbury.md",
-    "Blog/Travel/London/Day Trips/British Museum.md",
-    "Blog/Travel/London/Day Trips/Brighton and 7 Sisters.md",
-    "Blog/Travel/Baltics -> Amsterdam/Berlin.md",
-    "Blog/Travel/Baltics -> Amsterdam/February Trip.md",
-    "Blog/Travel/Baltics -> Amsterdam/Helsinki.md",
-    "Blog/Travel/Baltics -> Amsterdam/Riga.md",
-    "Blog/Travel/Baltics -> Amsterdam/Tallinn.md",
-    "Blog/Travel/Baltics -> Amsterdam/Amsterdam.md",
-    "Blog/Travel/Albania -> Croatia/Albania.md",
+    "Blog/Photography/people.md",
+    "Blog/Photography/street-urban.md",
+    "Attachments/IMGP2028.jpg",
     "Attachments/Pasted image 20250508114936.png",
     "Attachments/Pasted image 20250508114824.png",
     "Attachments/Pasted image 20250508105229.png",
-    "IMGP6752.jpg",
-    "IMGP6716.jpg",
-    "Attachments/IMGP3660.jpg",
     "Blog/Travel/Albania -> Croatia",
     "Blog/Travel/Baltics -> Amsterdam",
     "Notes/Introductory Electromagnetic Theory/Lectures/PDFs/Lecture 14 - Amperes Law.pdf",

@@ -1,0 +1,11 @@
+{
+  "find-orphaned-images:find-orphaned-images": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "O"
+    }
+  ]
+}
