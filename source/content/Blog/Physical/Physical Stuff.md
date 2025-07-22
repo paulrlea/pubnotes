@@ -13,6 +13,11 @@ Bench BW
 Deadlift 335 for 6-7
 
 Maintain healthy diet, eat veggies, etc etc
+
+Get 8hrs sleep/night
+
+> 7/22/24
+ >These goals are pretty ambitious. I may set some more reasonable goals 
 ## Exercise
 [[Exercise Methods]]
 

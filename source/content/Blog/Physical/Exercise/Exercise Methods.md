@@ -1,14 +1,23 @@
-> 5/06/2025
+## Different types of Exercise: 
 
-Finally got back into the gym after an extended hiatus due to traveling to [[Albania]] and being busy with exams, as well as general laziness. I think it's interesting to investigate how quickly strength recovers after taking a break, and how you can mitigate muscle/strength loss while not working out. From what I've seen/heard, of course the best way to prevent atrophy is to not skip working out, but sometimes that doesn't work. Failing that, I think eating well-balanced, high protein meals regularly helps reduce the amount of muscle atrophy, as well as doing light exercise (walking, some push-ups etc.)
+Exercise can be roughly separated into a few different groups of subtopics, and some of these are sorely neglected by modern training methods. Or at least by me. 
 
-Exercise Today:
-- 3x8 Curls
-- 3x10 Shoulder Press
-- 3x8-10 Hip Abductor
-- 60 Russian twist w/ 5kg
-- 40 Situps w/ 5kg
-- 5 Minutes heavy bag
-- 2x10 Machine bulgarian split squat
+### Strength: 
+- The easiest to conceptualize. Strength is more or less how much your muscles can move. 
+- Increased through lifting progressively heavier things for progressively more repetitions. 
+### Endurance: 
+- Can be further divided into muscular endurance and cardiovascular endurance. 
+- Also incorporates Tendons, joints etc. 
+- Trained through longer-distance cardio activities, e.g running, swimming, rucking
+### Coordination:
+- The ability to use different body parts together smoothly and efficiently.
+- Integration of sensory information (like sight and touch) with muscular actions.
+- Trained through ball sports, positioning movements, combatives, etc
+### Agility:
+- The ability to move quickly and easily, changing direction with speed and control.
+- Speed, quick reactions, and the ability to change direction rapidly.
 
 
+
+Sources: 
+https://theleanberets.com/wp-content/uploads/2013/12/1946-FM-21-20-PT-US-WAR.pdf

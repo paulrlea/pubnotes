@@ -88,5 +88,11 @@ export interface FullPageLayout {
   footer: QuartzComponent
 }
 
+export const siteConfig = {
+  name: "Paul's Physics Notes",
+  description: "A collection of physics notes and adventures",
+  image: "/images/default-og.jpg", // fallback OG image
+}
+
 export type PageLayout = Pick<FullPageLayout, "beforeBody" | "left" | "right">
 export type SharedLayout = Pick<FullPageLayout, "head" | "header" | "footer" | "afterBody">
