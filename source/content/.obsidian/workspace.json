@@ -4,17 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "dee0eb77210c0119",
+        "id": "948d98f809c6349b",
         "type": "tabs",
         "children": [
           {
-            "id": "63888887e15c1788",
+            "id": "9eed29319d3637a0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "canvas",
+              "state": {
+                "file": "Layout.canvas",
+                "viewState": {
+                  "x": 1400,
+                  "y": 3320,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Layout"
             }
           }
         ]
@@ -182,10 +189,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "63888887e15c1788",
+  "active": "9eed29319d3637a0",
   "lastOpenFiles": [
-    "Notes/Electromagnetic Theory/Lecture Slides/Electrodynamics /Class 23 Lienard-Wiechert Potentials 041723.pdf",
     "index.md",
+    "Layout.canvas",
+    "Notes/Physics Hub.md",
+    "Notes/Electromagnetic Theory/Electromagnetic Theory.md",
+    "Notes/Electromagnetic Theory/Lecture Notes/2024-04-4 The Potential Formulation.md",
+    "Notes/Electromagnetic Theory/Lecture Slides/Electrodynamics /Class 23 Lienard-Wiechert Potentials 041723.pdf",
     "Notes/Electromagnetic Theory/Books and Resources/EM Theory Math Tricks.md",
     "Notes/Introductory Electromagnetic Theory/Introductory Electromagnetic Theory.md",
     "Blog/Travel/London/Day Trips/Canterbury.md",
@@ -203,7 +214,6 @@
     "Notes/Theoretical Mechanics 1/Resources/Mock Final.md",
     "Blog/Blog Hub.md",
     "Blog/Travel/London/Directories/Clubs.md",
-    "Notes/Physics Hub.md",
     "Attachments/IMGP1953.jpg",
     "Attachments/IMGP2018.jpg",
     "Attachments/IMGP3550.jpg",
@@ -214,8 +224,6 @@
     "Blog/Physical/Physical Stuff.md",
     "Blog/Physical/Supplements, Diet/Protein and Diet.md",
     "Blog/Physical/Exercise/Exercise Methods.md",
-    "Blog/Photography/people.md",
-    "Blog/Photography/street-urban.md",
     "Attachments/IMGP2028.jpg",
     "Attachments/Pasted image 20250508114936.png",
     "Attachments/Pasted image 20250508114824.png",
@@ -228,7 +236,6 @@
     "Blog/Physical/Exercise",
     "Blog/Physical/Supplements, Diet",
     "Blog/Physical",
-    "Blog/Photography/Untitled",
-    "Notes/Physics of Advanced Materials/Untitled"
+    "Blog/Photography/Untitled"
   ]
 }
