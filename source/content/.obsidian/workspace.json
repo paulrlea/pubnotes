@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "948d98f809c6349b",
+        "id": "7be377f7c28d8a78",
         "type": "tabs",
         "children": [
           {
-            "id": "9eed29319d3637a0",
+            "id": "1e60d0a3ecdbca4c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Layout.canvas",
-                "viewState": {
-                  "x": 1400,
-                  "y": 3320,
-                  "zoom": 0
-                }
+                "file": "Blog/Music/EDM Genres.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Layout"
+              "icon": "lucide-file",
+              "title": "EDM Genres"
             }
           }
         ]
@@ -174,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,12 +184,18 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "random-note:Open random note": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "9eed29319d3637a0",
+  "active": "1e60d0a3ecdbca4c",
   "lastOpenFiles": [
+    "Blog/Music/Trance.md",
+    "Blog/Music/EDM Genres.md",
+    "Blog/Music",
+    "Notes/Introductory Quantum Mechanics/introduction-to-quantum-mechanics-david-j-darrell--annas-archive--libgenrs-nf-2695391.pdf",
     "index.md",
+    "Notes/Introductory Quantum Mechanics",
     "Layout.canvas",
     "Notes/Physics Hub.md",
     "Notes/Electromagnetic Theory/Electromagnetic Theory.md",
@@ -223,7 +227,6 @@
     "Blog/Physical/Supplements, Diet/Creatine.md",
     "Blog/Physical/Physical Stuff.md",
     "Blog/Physical/Supplements, Diet/Protein and Diet.md",
-    "Blog/Physical/Exercise/Exercise Methods.md",
     "Attachments/IMGP2028.jpg",
     "Attachments/Pasted image 20250508114936.png",
     "Attachments/Pasted image 20250508114824.png",
@@ -233,9 +236,6 @@
     "Notes/Introductory Electromagnetic Theory/Lectures/PDFs/Lecture 14 - Amperes Law.pdf",
     "Blog/Travel",
     "Notes/Introductory Electromagnetic Theory/Lectures/PDFs/Lecture 16 - Inductance and EMF.pdf",
-    "Blog/Physical/Exercise",
-    "Blog/Physical/Supplements, Diet",
-    "Blog/Physical",
-    "Blog/Photography/Untitled"
+    "Blog/Physical/Exercise"
   ]
 }
