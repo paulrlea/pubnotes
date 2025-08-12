@@ -8,7 +8,6 @@ Disco/Funk
 
 Most varieties of EDM are rooted in these above genres, but there are many exceptions. 
 
-
 Big List of Genres (Not exhaustive, not even close)
 Ambient
 Big Room House

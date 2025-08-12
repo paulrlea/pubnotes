@@ -1,0 +1,1 @@
+{"path":"Notes/@Summer2024/Computing for Physicists/Homework 2/Pasted image 20240607234324.png","text":"® method.py > 1 import numpy as mp 2 a - np.arange(64) 5 a.shape - (5,8) 4 print(a(2:s, 1:6])","libVersion":"0.5.0","langs":"eng"}

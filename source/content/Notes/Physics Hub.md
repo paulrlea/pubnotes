@@ -1,4 +1,3 @@
-#  Physics @ RPI 
 ## [[Introductory Modern Physics]]:
 Introductory concepts in oscillations, waves, the nature of light. Discusses Special relativity and its consequences. 
 
@@ -8,7 +7,7 @@ Your bog-standard course in classical mechanics. Force, energy, and mechanics of
 
 > This page does not exist yet
 ## [[Introductory Electromagnetic Theory]]
-Your second bog standard course, in electromagnetic theory. Maxwell's laws in integral form, circuits, and the wave nature of light. 
+Your second @Fall 2025bog standard course, in electromagnetic theory. Maxwell's laws in integral form, circuits, and the wave nature of light. 
 
 > This page is a WIP
 ## [[Theoretical Mechanics]]:

@@ -1,0 +1,3 @@
+# Zeeman Effect
+- Electron excitation
+- 

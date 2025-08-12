@@ -1,0 +1,6 @@
+- Pole Barn Paradox worksheet due Monday
+- November 12 and 15 test anxiety session thing
+- Reality Check
+- BHS 
+- Rate-your-mentor
+-

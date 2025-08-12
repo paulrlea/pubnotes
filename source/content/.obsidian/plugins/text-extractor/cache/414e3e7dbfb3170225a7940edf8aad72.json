@@ -1,0 +1,1 @@
+{"path":"Notes/Physics/Computing for Physicists/Homework 2/Pasted image 20240607233759.png","text":"(base) [admin@fedora Homework 21$ gawk -F '[/:]1\" '{sub(/F/, \"\" $10) print$3, $6}' temps.dat 175 2 72 3 77 4 78 5 76 B","libVersion":"0.5.0","langs":"eng"}

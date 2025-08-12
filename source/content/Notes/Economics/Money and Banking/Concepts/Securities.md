@@ -1,0 +1,1 @@
+Securities are a financial asset that is typically in the form of a contract

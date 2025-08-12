@@ -1,0 +1,1 @@
+{"path":"Notes/Physics/Computing for Physicists/In class 12/CFP_act12_2024.pdf","text":"Activity 12 Directly solve the Laplace equation, ∇𝑉𝑥,𝑦 = 0, using a 100 × 100grid representing a square region with the following boundary conditions: 𝑉= 0 𝑉= 1 𝑉= 0 𝑉= 0 Plot a heatmap of the potential V.","libVersion":"0.5.0","langs":""}
