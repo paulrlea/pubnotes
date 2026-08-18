@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Chi Phi Work Week F26/Work Week Meal Plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Work Week Meal Plan"
             }
           }
         ]
@@ -193,12 +193,15 @@
   },
   "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
+    "Chi Phi Work Week F26/Work Week FAQs.md",
+    "Chi Phi Work Week F26/Work Week Meal Plan.md",
+    "Layout.canvas",
+    "Chi Phi Work Week F26",
+    "index.md",
     "Notes/@Fall 2025 (Current)/Introductory Quantum Mechanics/Cohen-Tannoudji, Diu and Laloë - Quantum Mechanics (vol. I, II and III, 2nd ed.).pdf",
     "Notes/@Fall 2025 (Current)/Cosmology/cos.pdf",
     "Notes/@Fall 2025 (Current)/Cosmology/dokumen.pub_cosmology-9781108838078-9781108937092.pdf",
     "Notes/Physics Hub.md",
-    "index.md",
-    "Layout.canvas",
     "Notes/Physics/Theoretical Mechanics 1/HW/HW 7 2024.pdf",
     "Notes/Physics/Theoretical Mechanics 1/HW/HW 10 2024.pdf",
     "Notes/Physics/Theoretical Mechanics 1/HW/HW 11 2024.pdf",
@@ -218,7 +221,6 @@
     "Notes/@Summer2024/Research/8-1 Group Meeting.md",
     "Notes/Physics",
     "Notes/@Summer2024/Research/Topics Of Note.md",
-    "Notes/Physics/RPI Quantum Computing Group/QEC-Notes-Cameron.pdf",
     "Notes/@SchoolFall 2023/School/Physics/right hand rule.md",
     "Notes/@Spring2024/Other/Home Page 1.md",
     "Notes/Physics/RPI Quantum Computing Group/2024-02-14.md",
@@ -230,7 +232,6 @@
     "Notes/Economics/Money and Banking/Concepts/Financial intermediary.md",
     "Notes/Economics/Money and Banking/Concepts/Securities.md",
     "Notes/Physics/ExPhys/Analog Computing/Typesetting.md",
-    "Notes/Physics/ExPhys/Analog Computing/Analog Computer Theory Summer 2021.pdf",
     "Notes/@SchoolFall 2023/School/Economics/Econ MCQ Answers.md",
     "Notes/Economics/Notes/2023-10-20 Economics Lecture Chapter 6.md",
     "Notes/Economics/Notes/12-5-2023 Economics Review Lecture.md",
@@ -238,7 +239,6 @@
     "Notes/Economics/Notes/2023-11-17 Economics Lecture.md",
     "Notes/Economics/Notes/2023-11-14 Economics Lecture Chapter 9c.md",
     "Notes/Economics/Notes/2023-11-03 Economics Chapter Lecture 8b.md",
-    "Notes/Economics/Notes/2023-11-07 Economics Lecture.md",
-    "Notes/Physics/Computer Simulations in Science/Essay outline.md"
+    "Notes/Economics/Notes/2023-11-07 Economics Lecture.md"
   ]
 }
