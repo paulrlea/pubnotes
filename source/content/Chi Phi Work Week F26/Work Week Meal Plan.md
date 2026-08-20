@@ -1,47 +1,39 @@
-# Saturday
-## Breakfast 
-- Coffee
-- Breakfast Burritos
-	- Eggs
-	- Potatoes
-	- Tomatoes
-	- Beans
-	- Tortillas
-- Shake
-	- Milk 
-	- Peanut Butter
-	- Bananas 
-	- Oats
-	- Honey
-## Lunch
-- Chicken Thighs
-- Rice
-- Lentils
+## Breakfast Menu (All Days)
+> DIY Breakfast Burrito
+- Eggs
 - Beans
+- Tortillas 
+- Potatoes
+- Tomatoes
+- Cheese
+> Shake
+- Milk
+- Peanut butter
+- Oats 
+- Bananas
 
-# Sunday 
-## Breakfast 
-- Coffee 
-- Shake
-- Toast + Eggs
-
-## Lunch 
-- Chili
+## Lunch Menus
+### Saturday:
+- Rice Bean Chicken Bowls
+	- Black beans, rice and marinated chicken thighs
+### Sunday:
+- Br Lee's Chicken Fried Rice
+	- Fried rice with egg, chicken, carrots and corn
+### Monday
+- Chili bowls
+	- Turkey chili with brown rice
+### Tuesday
+- Edo's Gallo Pinto 
+	- Rice
 	- Beans
-	- Ground Turkey
-	- Diced  Tomatoes
-	- Tomato sauce
-	- Taco Seasoning
-- Rice
+	- Sausage
+	- Eggs
+	- Onions
 
-# Monday
-
-## Breakfast 
-- Coffee 
-- Shake
-- 
-
-
+### Wedesnday
+- Backyard Cookout 
+	- Hot dogs and burgers
+	- Beer
 
 
 
