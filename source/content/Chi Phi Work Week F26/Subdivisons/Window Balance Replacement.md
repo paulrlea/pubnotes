@@ -4,10 +4,10 @@ Parts best ordered from Swisco.
 - Swisco Red Capped series 600 balances are the closest direct replacement for these windows
 - Pivot pins are 3/4 wide, and 2 1/8 long. Unknown make currently. Could be 26-425
 ## Balance Sizes
-- Chapter room/dining room towards Sage Av. windows are 34 inches long for lower sash, 31 for the upper sash
--  Dining room facing backyard lower sash balances are 32 uppers are 20
-- Chapter room towards annex are 32 bottom 30 top
+Measure only the length of the outer tube (excluding the protruding tip/pin), measure the outer diameter straight across, and note the color of the plastic bushing or tip at the end.This video demonstrates how to safely remove and measure a spiral window balance:
+https://www.youtube.com/watch?v=6nK3fJGu21M
 
+N.B: You do not necessarily have to remove the balances to measure
 
 ### Window balance replacement checklist 
 - [ ] Remove both sashes from all large windows in main  
