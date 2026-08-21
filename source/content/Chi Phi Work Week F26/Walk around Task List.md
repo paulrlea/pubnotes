@@ -1,17 +1,16 @@
-Walk around   
-Chapter room  
-- [ ] Curtain sliders  
-- [ ] Holes in wall  
-- [ ] Curtain holdbacks   
-- [ ] Cable raceway   
-- [ ] Broken window   
-- [ ] Poop stain on ceiling   
-- [ ] Ceiling crack   
-- [ ] Cuck chair removal   
-- [ ] Composite glass   
-- [ ] Restrain window trim  
-- [ ] Repair pockets on pool table   
-Foyer   
+ > Chapter room  
+- [ ] Curtain sliders
+- [ ] Holes in wall
+- [ ] Curtain holdbacks
+- [ ] Cable raceway
+- [ ] Broken window
+- [ ] Poop stain on ceiling
+- [ ] Ceiling crack
+- [ ] Furniture removal
+- [ ] Composite glass replacement
+- [ ] Restrain window trim
+- [ ] Repair pockets on pool table
+> Foyer   
 - [ ] Holes in walls  
 - [ ] Lightbulbs   
 - [ ] Polish light fixture   
@@ -20,7 +19,7 @@ Foyer
 - [ ] Remove ceiling dingie  
 - [ ] Doorbell  
 - [ ] Remove speaker cable  
-Dining room  
+> Dining room  
 - [ ] Repaint walls stain blocker   
 - [ ] Cable channels   
 - [ ] LED lights   
@@ -31,29 +30,29 @@ Dining room
 - [ ] Door trim  
 - [ ] Cable management   
 - [ ] Transition piece  
-Milk room  
+> Milk room  
 - [ ] Fix holes  
 - [ ] Figure out what speaker cables go to  
 - [ ] Ceiling is disgusting  
 - [ ] Tighten milk room stairs  
 - [ ] Beadboar?  
-Dish pit  
+> Dish pit  
 - [ ] Replace ceiling tiles  
 - [ ] Windowsill clean and repaint  
 - [ ] Deep clean- take out sink and scrub behind  
 - [ ] Grease trap!!  
 - [ ] Garbage disposal switch  
 - [ ] Epoxy flooring treatment- go out to back door if possible. Might need to grind down concrete floor  
-Laundry room/Back hall   
+> Laundry room/Back hall   
 - [ ] Deep clean machines, run clean cycle   
 - [ ] Label all detergents, throw away excess  
 - [ ] Cable runs for ceiling cables   
 - [ ] Clean out vents  
-Boiler room  
+> Boiler room  
 - [ ] Patch holes in wall  
 - [ ] Move filing cabinets and organize clutter, throw away unnecessary objects   
 - [ ] Sweep and pick up debris  
-Main basement floor  
+> Main basement floor  
 - [ ] Remove steel floor pans  
 - [ ] Fill pit with gravel  
 - [ ] Concrete on pit  
@@ -63,7 +62,7 @@ Main basement floor
     - [ ] Run power and control to lights. Route cables to new dj booth spot  
 - [ ] Replace stage top layer   
 - [ ] Move dj booth to between door and stairwell, look at new booth area  
-Main exterior  
+> Main exterior  
 - [ ] Clean dryer vents  
 - [ ] Dispose  
     - [ ] Mattress   
@@ -104,16 +103,16 @@ Main exterior
 - [ ] Repaint front doorstep  
 - [ ] Driveway gravel   
   
-Exterior annex   
+> Exterior annex   
 - [ ] Propane tanks   
 - [ ] Resurface grill  
 - [ ] Repaint benches   
 - [ ] Dispose of paint  
-- [ ] Unfuck shed  
+- [ ] Organize shed  
 - [ ] Replace lights on a1 porch  
 - [ ] Dispose of front porch couch   
 - [ ] Replant garden beds on side of porch   
-A1  
+> A1  
 - [ ] Front door frame  
 - [ ] Fix door that’s not a door  
 - [ ] Hole in floor  
@@ -129,21 +128,14 @@ A1
 - [ ] Thermostat area fix   
 - [ ] A1 bathroom lock  
 - [ ] Deep clean bathroom  
-A2   
+> A2   
 - [ ] Clean a21, remove personal belongings  
 - [ ] Set up speakers   
 - [ ] Sand and reseal porch   
 - [ ] Replace light fixture   
 - [ ] Deep clean bathroom  
-Attic:  
+> Attic:  
 - [ ] Fix junction box in attic  
-  
-Windows…  
-- [ ] Remove both sashes from all large windows in main  
-- [ ] Scrub out tracks around window, remove all hardware, balances, balance pivots  
-- [ ] Examine sash, determine if repairs are needed. Replace weatherstripping on sash  
-- [ ] Reinstall balances, balance pivots  
-- [ ] Reinstall sashes and check for motion   
-- [ ] Clean glass, install screens  
+- [ ] Organize
   
 
