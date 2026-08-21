@@ -85,7 +85,7 @@ Dining room color is selected as
 Studio Clay MQ2-27. Use stain-blocking base
 
 # Misc Painting Jobs
-- [ ] Repaint front doorstep  
+
 - [ ] Repaint fence to backyard
 - [ ] Repaint windowsills in dish pit and kitchen 
 - [ ] milk room ceiling

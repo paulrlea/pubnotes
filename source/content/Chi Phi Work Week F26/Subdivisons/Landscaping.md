@@ -10,7 +10,8 @@ The grounds of the chi require restoration
 - [ ] Trim trees  
 - [ ] Garden bed border and mulch replacement
 - [ ] Fill stump holes one and two  (Stump guy should be coming Sat)
+	- [ ] Relevel yard
 - [ ] Driveway gravel spreading
 - [ ] Broad spectrum Herbacide on all places where there should be no plants
 - [ ] Pull weeds from garden beds and flower beds
-- [ ] 
+- [ ] Fix gas weedwacker, with longer cutter
