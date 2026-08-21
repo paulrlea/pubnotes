@@ -7,11 +7,12 @@
 1 PM - 3 PM: Work Block 3
 3 PM - 5 PM Work Block 4
 
-## Group Assignments
-| Group:  | Task Group 1: Management/Float 1 | Task Group 2: Annex | Task Group 3: Main | Task Group 4: Kitchen/Float 2 |
-| ------- | -------------------------------- | ------------------- | ------------------ | ----------------------------- |
-| Leader: | Paul                             | Edo                 | Owen               | Carl                          |
-|         | Matthew                          | Chandra             | Dylan              | Landon                        |
-|         | Will                             | Denis               | Jeremy             | Angelo                        |
-|         | Mike                             | Krish               | Landon             | Bernard                       |
-|         |                                  |                     | Dhruv              | Rayan                         |
+# Task group areas
+
+[[Drywall and Plaster Repair and Painting]]
+[[Hardware Installation]]
+[[Janatorial and Organizational]]
+[[Concrete, Masonary]]
+[[Plumbing and Electrical]]
+[[Carpentry and Woodwork]]
+[[Landscaping]]

@@ -1,0 +1,13 @@
+The grounds of the chi require restoration
+- [ ] Pavers with power washer  
+ - [ ]  Gutter reinstall/repair   
+    - [ ] Backyard  
+	- [ ] Volvo  
+	- [ ] Front corners 
+- [ ] Trim trees  
+- [ ] Garden bed border and mulch replacement
+- [ ] Fill stump holes one and two  (Stump guy should be coming Sat)
+- [ ] Driveway gravel spreading
+- [ ] Broad spectrum Herbacide on all places where there should be no plants
+- [ ] Pull weeds from garden beds and flower beds
+- [ ] 

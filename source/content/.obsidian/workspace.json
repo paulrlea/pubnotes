@@ -8,37 +8,122 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1e60d0a3ecdbca4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chi Phi Work Week F26/Subdivisons/Window Balance Replacement.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Window Balance Replacement"
-            }
-          }
-        ]
-      },
-      {
-        "id": "9397541492e17955",
-        "type": "tabs",
-        "children": [
-          {
             "id": "185334370bf9be38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chi Phi Work Week F26/Walk around Task List.md",
+                "file": "Chi Phi Work Week F26/Subdivisons/Landscaping.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Walk around Task List"
+              "title": "Landscaping"
+            }
+          },
+          {
+            "id": "f493f9cfefc4f75e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chi Phi Work Week F26/Subdivisons/Carpentry and Woodwork.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Carpentry and Woodwork"
+            }
+          },
+          {
+            "id": "2a94ebe8883f7c74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chi Phi Work Week F26/Subdivisons/Plumbing and Electrical.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Plumbing and Electrical"
+            }
+          },
+          {
+            "id": "e82c96f9ee945bf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chi Phi Work Week F26/Subdivisons/Concrete, Masonary.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Concrete, Masonary"
+            }
+          },
+          {
+            "id": "2d004e0de3e96e39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chi Phi Work Week F26/Subdivisons/Janatorial and Organizational.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Janatorial and Organizational"
+            }
+          },
+          {
+            "id": "50cc679875c41d06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chi Phi Work Week F26/Subdivisons/Hardware Installation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hardware Installation"
+            }
+          },
+          {
+            "id": "39eb3516c6559ef6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chi Phi Work Week F26/Subdivisons/Drywall and Plaster Repair and Painting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Drywall and Plaster Repair and Painting"
+            }
+          }
+        ],
+        "currentTab": 6
+      },
+      {
+        "id": "b47ff940f0a062f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e60d0a3ecdbca4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chi Phi Work Week F26/Work Week FAQs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Work Week FAQs"
             }
           }
         ]
@@ -211,22 +296,26 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1e60d0a3ecdbca4c",
+  "active": "39eb3516c6559ef6",
   "lastOpenFiles": [
-    "Chi Phi Work Week F26/Subdivisons/Plumbing and Electrical.md",
-    "Chi Phi Work Week F26/Subdivisons/Landscaping.md",
-    "Chi Phi Work Week F26/Subdivisons/Janatorial and Organizational.md",
-    "Chi Phi Work Week F26/Subdivisons/Hardware Installation.md",
+    "Chi Phi Work Week F26/Work Week FAQs.md",
     "Chi Phi Work Week F26/Subdivisons/Drywall and Plaster Repair and Painting.md",
-    "Chi Phi Work Week F26/Subdivisons/Concrete and Masonary.md",
+    "Chi Phi Work Week F26/Subdivisons/Plumbing and Electrical.md",
     "Chi Phi Work Week F26/Walk around Task List.md",
-    "Chi Phi Work Week F26/Subprojects/Untitled",
+    "Chi Phi Work Week F26/Storage Areas.md",
+    "Chi Phi Work Week F26/Subdivisons/Landscaping.md",
+    "Chi Phi Work Week F26/Subdivisons/Carpentry and Woodwork.md",
+    "Chi Phi Work Week F26/Subdivisons/Hardware Installation.md",
+    "Chi Phi Work Week F26/Subdivisons/Janatorial and Organizational.md",
+    "Chi Phi Work Week F26/Subdivisons/Concrete, Masonary.md",
     "Chi Phi Work Week F26/Subdivisons/Window Balance Replacement.md",
     "Chi Phi Work Week F26/Work Week Resources.md",
-    "Chi Phi Work Week F26/Work Week FAQs.md",
     "Chi Phi Work Week F26/Work Week Meal Plan.md",
-    "Chi Phi Work Week F26/Subdivisons",
     "Layout.canvas",
+    "Attachments/IMG_1211.jpeg",
+    "Attachments/IMG_1312.jpeg",
+    "Chi Phi Work Week F26/Subprojects/Untitled",
+    "Chi Phi Work Week F26/Subdivisons",
     "Chi Phi Work Week F26",
     "index.md",
     "Notes/@Fall 2025 (Current)/Introductory Quantum Mechanics/Cohen-Tannoudji, Diu and Laloë - Quantum Mechanics (vol. I, II and III, 2nd ed.).pdf",
@@ -245,8 +334,6 @@
     "Attachments/Pasted image 20240816141438.png",
     "Attachments/Pasted image 20231020132325.png",
     "Attachments/Pasted image 20231020132340.png",
-    "Attachments/Pasted image 20240202141605.png",
-    "Attachments/Pasted image 20240109091903.png",
     "Notes/@Fall 2025 (Current)/Untitled.md",
     "Notes/@Summer2024/Research/8-1 Group Meeting.md",
     "Notes/@Summer2024/Research/Topics Of Note.md",
@@ -257,8 +344,6 @@
     "Notes/Economics/Money and Banking/Notes/2024-01-08.md",
     "Notes/Economics/Money and Banking/Notes/2024-01-11.md",
     "Notes/Economics/Money and Banking/Discounting.md",
-    "Notes/@Spring2024/Other/Money and Banking/Notes/2024-01-25.md",
-    "Notes/Economics/Money and Banking/Concepts/Financial intermediary.md",
-    "Notes/Economics/Money and Banking/Concepts/Securities.md"
+    "Notes/@Spring2024/Other/Money and Banking/Notes/2024-01-25.md"
   ]
 }

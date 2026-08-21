@@ -15,7 +15,7 @@ N.B: You do not necessarily have to remove the balances to measure
 - [ ] Examine sash, determine if repairs are needed. Replace weatherstripping on sash  
 - [ ] Reinstall balances, balance pivots  
 - [ ] Reinstall sashes and check for motion   
-- [ ] Clean glass, install screens  
+- [ ] Clean glass, install screens. Cleaning is duty of janitorial team
   
 ## Window List
 U: Upper sash balance length
