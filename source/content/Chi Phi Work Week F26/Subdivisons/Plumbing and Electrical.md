@@ -1,3 +1,6 @@
+# Group
+Leader: Paul
+
 - [ ] Doorbell
 - [ ] Remove speaker cable
 - [ ] Figure out what speaker cables go to

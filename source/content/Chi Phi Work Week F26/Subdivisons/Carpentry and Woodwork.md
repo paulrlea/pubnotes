@@ -1,3 +1,6 @@
+# Group
+Lead: Landon
+
 There are tasks involving staining, cutting, and repairing wooden fixtures around the houses. Here is a list
 
 ## Chapter room 

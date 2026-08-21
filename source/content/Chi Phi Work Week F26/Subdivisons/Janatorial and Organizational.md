@@ -1,3 +1,5 @@
+# Group
+Leader: Owen
 # Organizational
 We have many things as a fraternity that need to be organized.
 Please move all chapter property to a central location (basement?) to be sorted and organized. 

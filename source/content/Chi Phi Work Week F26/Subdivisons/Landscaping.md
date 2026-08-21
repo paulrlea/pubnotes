@@ -1,3 +1,6 @@
+# Group 
+Leader: Angelo
+
 The grounds of the chi require restoration
 - [ ] Pavers with power washer  
  - [ ]  Gutter reinstall/repair   

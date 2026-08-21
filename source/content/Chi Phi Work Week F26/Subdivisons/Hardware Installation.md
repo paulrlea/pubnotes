@@ -1,3 +1,6 @@
+# Group 
+Leader: Dylan
+
 There are a wide variety of hardware accessories that need to be installed, things to be hung, and items to be repaired. These include the following, going room by room
 
 ## Chapter Room 
@@ -21,7 +24,7 @@ There are a wide variety of hardware accessories that need to be installed, thin
 - Remove letters, remount with ***appropriate*** hardware
 	- Redo LED lighting on back of letters
 ## Laundry Room
-- Cable runs for ceiling tiles
+- Cable runs for ceiling 
 ## Dish Pit
 - Replace the ceiling tiles
 - Fix the weird triangle missing bit
