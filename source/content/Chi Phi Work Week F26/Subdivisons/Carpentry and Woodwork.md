@@ -23,4 +23,3 @@ There are tasks involving staining, cutting, and repairing wooden fixtures aroun
 - [ ] A1 bathroom door (work with hardware team)
 - [ ] A1 backdoor (work with hardware team)
 - [ ] Grind down and repaint A1 and A2 porches
-- [ ] 
