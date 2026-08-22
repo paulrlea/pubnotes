@@ -1,6 +1,6 @@
  > Chapter room  
 - [ ] *Curtain sliders*
-- [ ] *Holes in wall*
+- [x] *Holes in wall*
 - [ ] *Curtain holdbacks*
 - [ ] *Cable raceway*
 - [ ] **Broken window**
@@ -12,7 +12,7 @@
 - [ ] *Repair pockets on pool table*
 > Foyer   
 - [ ] *Holes in walls*  
-- [ ] *Lightbulbs*   
+- [x] *Lightbulbs*   
 - [ ] *Polish light fixture* 
 - [ ] *Paint ceiling*   
 - [ ] **Broken stained glass**  
@@ -53,7 +53,7 @@
 - [ ] *Move filing cabinets and organize clutter, throw away unnecessary objects*   
 - [ ] *Sweep and pick up debris*  
 > Main basement floor  
-- [ ] *Remove steel floor pans*  
+- [x] *Remove steel floor pans*  
 - [ ] *Fill pit with gravel*  
 - [ ] *Concrete on pit*  
 - [ ] *Build subwoofer housing/stage half round*  
