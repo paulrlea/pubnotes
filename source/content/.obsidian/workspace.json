@@ -13,26 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Chi Phi Work Week F26/Day 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day 1"
+            }
+          },
+          {
+            "id": "49b803de4575ca4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Chi Phi Work Week F26/Shopping List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Shopping List"
-            }
-          },
-          {
-            "id": "f493f9cfefc4f75e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chi Phi Work Week F26/Subdivisons/Carpentry and Woodwork.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Carpentry and Woodwork"
             }
           },
           {
@@ -105,27 +105,8 @@
               "title": "Drywall and Plaster Repair and Painting"
             }
           }
-        ]
-      },
-      {
-        "id": "b47ff940f0a062f8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1e60d0a3ecdbca4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chi Phi Work Week F26/Subdivisons/Landscaping.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Landscaping"
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -295,22 +276,24 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "185334370bf9be38",
+  "active": "49b803de4575ca4c",
   "lastOpenFiles": [
-    "Chi Phi Work Week F26/Subdivisons/Window Balance Replacement.md",
+    "Chi Phi Work Week F26/Day 1.md",
+    "Chi Phi Work Week F26/Work Week Meal Plan.md",
     "Chi Phi Work Week F26/Shopping List.md",
     "Chi Phi Work Week F26/Subdivisons/Carpentry and Woodwork.md",
+    "Chi Phi Work Week F26/Work Week Resources.md",
+    "Chi Phi Work Week F26/Subdivisons/Landscaping.md",
+    "Chi Phi Work Week F26/Day 1",
+    "Chi Phi Work Week F26/Subdivisons/Window Balance Replacement.md",
     "Chi Phi Work Week F26/Subdivisons/Plumbing and Electrical.md",
     "Chi Phi Work Week F26/Subdivisons/Concrete, Masonary.md",
     "Chi Phi Work Week F26/Subdivisons/Janatorial and Organizational.md",
     "Chi Phi Work Week F26/Subdivisons/Drywall and Plaster Repair and Painting.md",
-    "Chi Phi Work Week F26/Subdivisons/Landscaping.md",
     "Chi Phi Work Week F26/Subdivisons/Hardware Installation.md",
     "Chi Phi Work Week F26/Work Week FAQs.md",
     "Chi Phi Work Week F26/Walk around Task List.md",
     "Chi Phi Work Week F26/Storage Areas.md",
-    "Chi Phi Work Week F26/Work Week Resources.md",
-    "Chi Phi Work Week F26/Work Week Meal Plan.md",
     "Layout.canvas",
     "Attachments/IMG_1211.jpeg",
     "Attachments/IMG_1312.jpeg",
@@ -325,7 +308,6 @@
     "Notes/Physics/Theoretical Mechanics 1/HW/HW 7 2024.pdf",
     "Notes/Physics/Theoretical Mechanics 1/HW/HW 10 2024.pdf",
     "Notes/Physics/Theoretical Mechanics 1/HW/HW 11 2024.pdf",
-    "Notes/Physics/Theoretical Mechanics 1/HW/HW 2 2024.pdf",
     "Attachments/IMGP4165.jpg",
     "Attachments/IMGP3662.jpg",
     "Attachments/IMGP2028.jpg",
@@ -342,7 +324,6 @@
     "Notes/Physics/RPI Quantum Computing Group/2024-02-14.md",
     "Notes/Physics/RPI Quantum Computing Group/2024-01-31.md",
     "Notes/Economics/Money and Banking/Notes/2024-01-08.md",
-    "Notes/Economics/Money and Banking/Notes/2024-01-11.md",
-    "Notes/Economics/Money and Banking/Discounting.md"
+    "Notes/Economics/Money and Banking/Notes/2024-01-11.md"
   ]
 }

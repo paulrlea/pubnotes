@@ -15,3 +15,5 @@ The grounds of the chi require restoration
 - [ ] Broad spectrum Herbacide on all places where there should be no plants
 - [ ] Pull weeds from garden beds and flower beds
 - [ ] Fix gas weedwacker, with longer cutter
+
+List of things: 
