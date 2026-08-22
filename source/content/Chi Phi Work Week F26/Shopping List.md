@@ -14,4 +14,4 @@ QUINN Premium Putty Knife/Scraper Set, 4-Piece
 QUINN 10 in. Blue Steel Taping Knife
 HUSKY 9 ft. x 12 ft. Disposable Drop Cloth 10x 
 Bucket
-Tarp
+big Tarps
