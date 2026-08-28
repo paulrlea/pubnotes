@@ -32,18 +32,17 @@ Start by taking out all the trash, from all the bins. Take the bins out back for
 
 # Cleaning
 Many things that are not encompassed by regular cleanings need to be cleaned. Here is a short list
-- Chandlier needs polished
-- Garbage cans need to be powerwashed
-- Windowsills throughout the house need to be cleaned 
-- Basement casement window sills need to be cleaned 
-- All windows need to be cleaned
-- After dishes sink is removed (check with plumbing team), all surfaces in dish pit need to be scrubbed clean
-- Dryer vents should be cleaned from the outside
+- [ ]  Chandlier needs polished
+- [ ] Garbage cans need to be powerwashed
+- [ ] Windowsills throughout the house need to be cleaned 
+- [ ] Basement casement window sills need to be cleaned 
+- [ ] All windows need to be cleaned
+- [ ] After dishes sink is removed (check with plumbing team), all surfaces in dish pit need to be scrubbed clean
+- [ ] Dryer vents should be cleaned from the outside
 - [ ] Deep clean laundry machines, run clean cycle
-- Stove exhaust grill should be scrubbed with soap and water. Dont powerwash
-- Any paint residue on floors should be cleaned up
-- Clean out all the closets after organizational team is finished cleaning out stuff.
-- 
+- [ ] Stove exhaust grill should be scrubbed with soap and water. Dont powerwash
+- [ ] Any paint residue on floors should be cleaned up
+- [ ] Clean out all the closets after organizational team is finished cleaning out stuff.
 Let me know after the above is done
 
 
